@@ -1,2 +1,7 @@
-Data originally belongs to David Matthews
-Files are presented as given with duplicates removed
+Data belongs to David Matthews, created in
+Sloma, M.F., & Mathews, D.H. (2016). Exact calculation of loop formation probability identifies folding motifs in RNA secondary structures. RNA. 22, 1808-1818.
+and used in 
+Deng, D., Zhao, K., Hendrix, D., Mathews, D. H., Huang, L. (2018). LinearFold: Linear-Time Prediction of RNA Secondary Structures. BioRxiv.
+Files are presented as given with duplicates removed. 
+For the unaltered version of the dataset, the dataset can be accessed through his website
+https://rna.urmc.rochester.edu/pub/archiveII.tar.gz
