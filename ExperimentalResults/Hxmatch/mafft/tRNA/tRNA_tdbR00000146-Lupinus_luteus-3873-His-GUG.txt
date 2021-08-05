@@ -1,0 +1,3 @@
+>tRNA_tdbR00000146-Lupinus_luteus-3873-His-GUG
+GGUGGCUGUAGUUUAGUGGUUAGAACACAACGUUGUGGCCGUUGAAACCUGGGUUCGAAUCCCAGCAGCCACACCA
+_(((((((____________________(__(______)__)_______((((_______))))_)))))))____

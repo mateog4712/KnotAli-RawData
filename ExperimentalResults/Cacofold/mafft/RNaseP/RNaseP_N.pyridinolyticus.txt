@@ -1,0 +1,3 @@
+>RNaseP_N.pyridinolyticus
+CACAGGGCAAGGUGGUGGGUAACACCCACCCGGGGCAACCCGCGGGACAGUGCCACAGAGAACAGACCGCCCCUGCGUGCAGGGGUAAGGGUGAAACGGCGGUGUAAGAGACCACCAGCGACCGGGGCGACCCGGCCGGCUCGGCAAACCCCACCUGGAGCAAGGUCAAGAAGUCCGGUGCUCUCACCGGACGCGCGCACGACUGAGGGCGGCCCGCCCGAGUGCGCGGGUAGACCGCUGGAGGGCGUCGGCAACGGCGCUCGUAGAUGGAUGGUCGCCACGCUUCGGCGUU
+(_.......(((((<<<<<.....>>>>><<<<<....>>>>.>....._.._............................................<<_<<<..._.._>>>_>>___<_<_<<<....>>>>_>_..............))))))___...<<........_<__<<..........................................>>__>_.......>>.<<<_.<<<<<<<<....>>>>>>>>_>>>..........................

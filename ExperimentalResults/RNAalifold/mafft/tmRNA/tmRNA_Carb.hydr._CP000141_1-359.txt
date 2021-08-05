@@ -1,0 +1,3 @@
+>tmRNA_Carb.hydr._CP000141_1-359
+GGGGGCGUAAAGGGUUCGACGGGGGAGCGAAGGGCCGAAAGUAGCGAGGCGAGGACCCCAUCUUACCUCGUUAAAAAUGGUGGGAAAAGAUAACUGCCAACGAAAACUACGCUUUAGCUGCUUAAUAACGCAGCUACGUCCUGACGGAAGCUUGCCCGGGGCUUCUGUCGGGGCGUGACCGGACCGGGCUGGCUUAUGAAGGGUGUCCCGGCUCUUCAUAAGCGAGAUUUUACGGGAUAGCCCGAUUGUGGCCUGCCGGUAGGCACCAAUCGGGUGAAAGCAAAAAUACCGGCUGCCCUCGGAGAAGCUUUCGGUUCUUGUCCUCCGGACGGUGGGUUCGAUUCCCCCCGCCUCCACCA
+(((((((....(.......)......................._((((((((((...........)))))........................................((....))..................................................................................................................................................................................)))))_............................((.(((.......))))))))))))....

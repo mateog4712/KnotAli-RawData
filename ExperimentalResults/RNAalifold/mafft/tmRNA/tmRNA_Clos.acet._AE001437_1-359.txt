@@ -1,0 +1,3 @@
+>tmRNA_Clos.acet._AE001437_1-359
+GGGGGCGCUUUUGGUUUCGACGGGGAUGAUGUUACGUUUGAGAAGCGAGUCGAGGGAACCUGUGGACCCGCGUUAAAAAACUAUAGGCCUUAAAAAUAAAGGAUAACGAAAAUAAUUUAGCUUUAGCUGCGUAGUCAGCUAACGUCAGCCUGAGAGUCCCGCGACUCAGAGUCUGGCGUCGACAGCGGGGAACCGAGCCUUACAAAGCUUUGAGUAAGGAACGGAAUUUAUGAAGCUACUGAAGUGAAAAGCUUGUUUGUAGGCGUUUCAUGGAGGGAAUGUUAAAAUACAAACUGCACUCGGAGAUGCUUAAAUGAAACCAUUUUCGGACAGGGGUUCGAUUCCCCUCGCCUCCACUA
+(((((((.....(.......)......................._(((((((_((............))_))...............................................((....))..........................................................................................................................................................................)))))_............................(((((.......))))))))))))....

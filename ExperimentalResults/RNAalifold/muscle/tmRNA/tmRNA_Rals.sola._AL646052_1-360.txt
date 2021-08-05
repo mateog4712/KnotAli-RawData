@@ -1,0 +1,3 @@
+>tmRNA_Rals.sola._AL646052_1-360
+GGGGCCGACCUGGUUUCGACGUGGGUUGCGAAGCAGUAGCGGGCAUACCGAGGACCCGUCACCUCGUUAAUCAAUGGGAACGCAAUAACUGCUAACGACAACCGUUACCAGCUGGCCGCUUAAUUGCGCGCCGUCCUCGCACUAGCUUGCCGAUAGGCUAGGGCCGCAAGGCCACGCGAGGUCAUUCAUAUCGGAUCGCUUCGGCCGGUGUCACGACGGCCGGGGUUAACUCCAAGUGACUCGUCGUCGCGCAGCGUGUUCGUCCGCGUCGCGCCGGUUAAAUCAAAUGACUGAACUAAGUAUGUAGAACGCUCUGUAGAGGACUUGCGGACGCGGGUUCGAUUCCCGCCGGCUCCACCA
+(((((((..........(.((((((((......_........(((((((((((........)))))............................................(_.._).......................................................................................................................................................................................))))))........._......))))))))..)(((((.......))))))))))))....

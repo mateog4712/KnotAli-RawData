@@ -1,0 +1,3 @@
+>tRNA_tdbR00000236-Neurospora_crassa-5141-Leu-UAG
+AUAGGUGUGCUGGAAUUGGUAGACAGGUUCCGUUUAGGCCGGAAUGGUUUAAAAACUGUACAAGUUCAAGUCUUGUCAUCUAUACCA
+(((((((..____..._._..____._<<__...______>>_................<<<<..._...._>>>>)))))))....

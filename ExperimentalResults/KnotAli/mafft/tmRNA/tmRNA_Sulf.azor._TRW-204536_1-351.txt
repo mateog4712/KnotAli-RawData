@@ -1,0 +1,3 @@
+>tmRNA_Sulf.azor._TRW-204536_1-351
+GGGGGCGAUACGGGUUCGACGGCAAGAGCAGGCAAAGGGAAGCAUGCCGUAGAAGGCCACUACGUAAAAAACCAAAACAAAACAAUUCCCGAACGCGAAAUCGCUCUCGCUGCUUAAUUAACGCAGCGACGUCCUACCCGGUUUGCCUGUAGGCUGGGAUAGGGCGUAAGACAUACAGGAUAGGAGGUUGCCAACCUCCCCUGAGGUAACCUCCGAAACUCUACGGGGAUAGCUUCUCUCCUCCUGCCUGUGGGAAAGAGAGAAGCGAAACUCAAACACAGGCUAAGCAUGUAGAUGCCCUACUGCUUAGGCUCUUGUCGGACGGGGGUUCGAUUCCCCCCGCCUCCACUC
+[[[[(([.............([[(.[[[[[[.....((...[[((([[[(((.......)))]]....[[[[[.....................[[[....]]]..[[[[[[[.........]]]]]]]..........]]]]][[[.([.[[[[....[[....[[[.....]]]....]]...]]]]])..[[[[[....]]]]]...[[[[[........]]]]]...[[[[[[[[[.[[([[....]])]]..]]]]]]]]]..............]]]...])))]].....))...]]]]]]....)...]])....(([[[.......]]]))]))]]]]....

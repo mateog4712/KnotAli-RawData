@@ -1,0 +1,3 @@
+>tmRNA_Erwi.caro._BX950851_1-363
+GGGGCUGAUUCUGGAUUCGACGGGAUUUGCAAAGCCCAAGGUGCAUGCCGAGGGGCGGUUUGCCUCGUAAAAAGCCGCAAAAAAAUAGUCGCAAACGACGAAAACUACGCUUUAGCAGCUUAAUAACCUGCUAAGAGCCCUCUCUCCCUAGCCUCCGCUCUUAGGACGGGGAUCAAGAGAGGUCAAACCCAAAAGAGAUCGCGUGGAUGCCCUGCCUGGGGUUGAAGGGCUAAAUCUAAUCAGGCUAGUUUGUUAGUGGCGUGUCUGUCCGCAGCUGGCAAGCGAAUGUAAAGACUGACUAAGCAUGUAGUACCGACGGUAGAGUAGUUCCGGACGGGGGUUCAAAUCCCCCCAGCUCCACCA
+(((((((...........(.(((((((_......(.......(((((((((((.........))))).........................................((....))..........................................................................................................................................................................................)))))).........)......_)))))))..)(((((.......))))))))))))....

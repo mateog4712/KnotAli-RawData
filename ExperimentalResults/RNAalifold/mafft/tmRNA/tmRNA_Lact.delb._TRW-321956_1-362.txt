@@ -1,0 +1,3 @@
+>tmRNA_Lact.delb._TRW-321956_1-362
+GGGGAUGUUUUGGGAUUCGACAGGCGCAGACCCGCGCUGGUUGCGAUUCGUAGGUUACGUCUACGUUAAAACGUUAAACAGUUUAAAUUAACUGCAAACGAAAACUCAUACGCUGUAGCUGCUUAGUUCAGCCCAGCUGCCAAUAGACUGCCUGCCCGUGGCGGUCUUGCGGUAUCAACAUUACGGGAUACGCUUGCCUAUCACACCUGAAUAAGCGAGAAGAGACUAACAGGUUAGCCGUGGCUGUUUGGCCCUGUCAUAUGGCGUUUUGCCCCGGUGAAGUUUAAAUAAUAUGACUAUGAUCGUAGAGAUUAGUGACGGGAUGCGUUUGGACAGGGGUUCAAUUCCCCUCAUCUCCAUCU
+(((((((.....(.......).....................(((((((((((.......)))))..............................................((....)).....................................................................................................................................................................................))))))............................(((((.......))))))))))))....

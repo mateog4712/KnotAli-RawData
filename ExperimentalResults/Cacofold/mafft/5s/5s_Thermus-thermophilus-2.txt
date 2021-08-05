@@ -1,0 +1,3 @@
+>5s_Thermus-thermophilus-2
+AAUCCCCCGUGCCCAUAGCGGCGUGGAACCACCCGUUCCCAUUCCGAACACGGAAGUGAAACGCGCCAGCGCCGAUGGUACUGGGCGGGCGACCGCCUGGGAGAGUAGGUCGGUGCGGGGGA
+......[[[[[[[....(((...__(....<<<<<<...._<....>_.>>>>..>>_.._)____).))<<<_<.....<<<<<<<......>>>>>>>.....>_>>_>]]]]]]]....

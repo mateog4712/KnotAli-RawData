@@ -1,0 +1,3 @@
+>tmRNA_envi.sequ._TRW-2-1_1-365
+GGGGCUGACAGGAAUCGACAGUAGAGUGUAUCAUGUCAGUAAGCAUGCCGGGGAAUGGUGGUUUACCCCGUUAUCAAAUGAUUACCGACCAAUAAUUGGCGAAACUCGUUUCGCGUUGGCUGCCUAAUUCAAGGAAUUAGCGUGCCUUCAUGCUAAGGGUUUGAUAUCUGCUAAAACCCGGUGCAUUCAUCAAUGCAGGUUAAGCCAAAGGGAUGUCCCGACCGGAGGCCGACAAUCCAGGGAACCGGAUGUCAUCACGUUGUUGCAGUACCAGAUGGCAUCUUAAAUCCGAUCUGCAAAUAAGCAUGUAGAAAGCUGAUGUGGGCUUUAGCUGGACGGGGGUUCAAUUCCCCCCGGCUCCACCA
+(((((((.........(.((.___((_......_........(((((((((((............)))))..........................................((....)).......................................................................................................................................................................................)))))).........._......_))___))..)(((((.......))))))))))))....

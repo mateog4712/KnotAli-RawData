@@ -1,0 +1,3 @@
+>tmRNA_Clos.diff._TRW-367459_1-350
+GGGGGCGUAAAGGUUUCGACGUGGGUUUGGAACUUGAGGCUGCAUGUCGUGUUACUCUGGGUCACGUAAAAACUGGGGAACUUUAAAAUAAACGCAGACGAUAAUUUCGCGAUAGCAGCCUAGUUGCUGCUCGUCCCUCUUAGUCCUCCUGCCGACUAAGACUGGACGUCAUUAUGCAGGGAACUACUUUAGGGGUGUCUCGACCUGAAGUAGAUUAAUUGGGACUGGCUAAGCAUAGAGCCUGCCACUUGGCGCUAUGUGAGGUGAGAUAUUAGUGAAGUUGGCUAAGCAUGUAGAUGCAGCAAGGAAAAGAUUUGCGGACAGGGGUUCGACUCCCCUCGUCUCCACCA
+{{{{{{{............[[[[[[[[.____.........((((((..__.............______..............................................____.......................................................................................................................<<<........>>>...................................)))))).................]]]]]]]]...<<<<<.......>>>>>}}}}}}}.__.

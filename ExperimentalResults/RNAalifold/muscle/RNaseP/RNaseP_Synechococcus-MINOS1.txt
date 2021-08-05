@@ -1,0 +1,3 @@
+>RNaseP_Synechococcus-MINOS1
+UUGAGGAAAGUCCGGGCUCCCGAAUGGCCAGGCUUGCUGGGUAACGCCCAGUGCGGGUGACCGUGAGGAGAGUGCCACAGAAACACACCGCCGAUGGCCGGCUUGCCGGCACAGGCAAGGGUGCAAGGGUGCGGUAAGAGCGCACCAGCAGCAUCGAGAGGUGCUGGCUCGGUAAACCCCGGCCGGGAGCAAGGCCCAGGGACGAUGGUUGGCCAUUGACCGGUCCCGACAACAGCGCGCCGCUCGAGGCCACCGGUAUACGGUGGUCCCAGACAGAUGAUCAUCCAGAGAACAGAACCCGGCUU
+.......(((.(((((((((................(((((.....)))))..(((....))).........................((((...........................))))....((((((.......))))))........................((......)).....)))))..(((_........................................._)))......(((((.(_(....)_))))))..............................)))))))

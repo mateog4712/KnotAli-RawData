@@ -1,0 +1,3 @@
+>tmRNA_Baci.clau._AP006627_1-355
+GGGGACGUUUUGGAUUCGACAGGGAUAGGUCGAGCUUGCGUUGCGAGCCGAGGGGUCGGCCUCGUAAAAACGCACAAGCCAAUAACUGGCAAAGAAAACAACAACUUCGCUCUAGCUGCAUAAGCUAAGCGGUCUCUCCUCUCCAUCGCCCAUGUGGAGUGGCUGAGACUCAACUUUAGUGGGAUACGCCUUUCUCCCCCCGCCUGAGGGAGAAGGAAGAGACUAAUCAGGCUAGCUGCACGGAGGCCUGUCUUUGGGCUGAAGUGCUAGCGAAAUACGAAUACAAAGACUACGCUCGUAGAAGCGUAAGUGUCGUUAUCUCUGGACGUGGGUUCAAUUCCCACCGUCUCCAUAU
+{{{{{{{............[[.[[___[.____.........((((((..__............<____>..............................................____.............................................................................................................................<<<........>>>..................................)))))).................]___]]]]...<<<<<.......>>>>>}}}}}}}.__.

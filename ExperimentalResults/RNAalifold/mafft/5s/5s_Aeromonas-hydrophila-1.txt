@@ -1,0 +1,3 @@
+>5s_Aeromonas-hydrophila-1
+UGCCUGGCGGCCAUAGCGCCGUGGAACCACCUGAUCCCAUGCCGAACUCAGAAGUGAAACGCGGUAGCGCCGAUGGUAGUGUGGCAUUUGCCAUGCGAGAGUAGGACACUGCCAGGCA
+...(((((((_....((....._(....((((((((.......))..))))..))....)_.....)).((.......((.((___...__)).)).......)).._)))))))...

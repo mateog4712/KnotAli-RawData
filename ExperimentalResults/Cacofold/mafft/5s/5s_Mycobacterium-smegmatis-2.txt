@@ -1,0 +1,3 @@
+>5s_Mycobacterium-smegmatis-2
+GUUACGGCGGUCCAUAGCGGCAGGGAAACGCCCGGUCCCAUCCCGAACCCGGAAGCUAAGCCUGCCAGCGCCGAUGAUACUACCCAUCCGGGUGGAAAAGUAGGACACCGCCGAACAC
+....[[[[[[[.....(((((..((....<<<<<<...._<....>_.>>>>..>>_.._))_))).))<<<_<.....<<<<<<_.._>>>>>>.....>_>>_>]]]]]]].....

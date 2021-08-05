@@ -1,0 +1,3 @@
+>tRNA_tdbR00000015-Bombyx_mori-7091-Ala-IGC
+GGGGGCGUAGCUCAGAUGGUAGAGCGCUCGCUUAGCAUGCGAGAGGUACCGGGAUCGAUACCCGGCGCCUCCACCA
+(((((((____________________((((_______))))_______((((_______))))_)))))))____

@@ -1,0 +1,3 @@
+>tmRNA_Myco.lepr._AL583919_1-366
+GGGGCUGAAAGGUUUCGACUUCGCGCAUCGAAUCAAGGGAAGCGUGCCGGUGCAGGCAAGAGACCACCGUAAGCGUCGUUGCAGCAAUAUAAGCGCCGAUUCAUAUCAGCGCGACUAUGCUCUCGCUGCCUAAGCGAUGGCUAGUCUGUCAGACCGGGAACGCCCUCGUCCCGGAGCCUGGCAUCAGCUAGAGGGAUCUACCGAUGGGUUCGGUCGCGGGACUCGUCGGGACACCAACCGCGACUGGGAUCGUCAUCCUGGCUAGUUCGCGUGAUCAGGAGAUCCGAGUAGAGGCAUAGCGAACUACGCACGGAGAAGCCUUGAGGGAAAUGCCGUAGGACCCGGGUUCGAUUCCCGGCAGCUCCA
+(((((((.........(.((.___(((......_......._(((((_(_(_........_)_)_.....................................................((....)).....................................................................................................................................................................................)))))_.........._......)))___))..)(((((.......)))))))))))).

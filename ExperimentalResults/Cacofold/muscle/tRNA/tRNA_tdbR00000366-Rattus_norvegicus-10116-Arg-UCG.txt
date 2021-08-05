@@ -1,0 +1,3 @@
+>tRNA_tdbR00000366-Rattus_norvegicus-10116-Arg-UCG
+AUGGUAAUUAGUUUAAAUAAAAUUAAUGAUUUCGACUCAUUAGAUUAUGAUAAUAAUCAUAAUUACCAACCA
+._______.._<_<......_._..>_>_.<____...________>....._<__...<....>__>....

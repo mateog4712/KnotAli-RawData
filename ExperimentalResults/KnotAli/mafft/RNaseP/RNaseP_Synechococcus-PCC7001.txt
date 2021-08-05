@@ -1,0 +1,3 @@
+>RNaseP_Synechococcus-PCC7001
+GGGGAGGAAAGUCCGGGCUCCCCAAUGGCCAGGCUUGCUGGGUAACGCCCAGUGCGGGUGACCGUGAGGAGAGUGCCACAGAAACACACCGCCGAUGGCUCCGCUUCCGCUGCGGUGGAGACGAGCACAGGCAAGGGUGCAAAGGUGCGGUAAGAGCGCACCAGCAGCAUCGAGAGGUGCUGGCUCGGUAAACCCCGGCCGGGAGCAAGGCCCAGGGACCAACGGUUGGCCAUGACACCGGUCCCGCCCCAAGUGCGCCGCUCGAGGCCGCCGGAGACGGCGGUCCCAGACAGAUGAUCACCCCGGGCAGGGUCCGCCCCACCCGGAACAGAACCCGGCUUA
+((((.(((..(((([[[[[[[[....[[[[.[[.[[[[[[[[...[[[[[..[[[[[....]]]]]......[[[.........]]]...[[[....[[[[....[[[[[....]]]]]...]]]]...]]]..]]]]]....[[[[[[.......]]]]]]..[[[[[[[....]]]]]]].]]]]]]]].]]..]]]]]]]]]]..[[[...[[[[[[....[[[[....]]]]...]]]]]]]]]....[[[.....[[[..[[[[[[[[....]]]]]]]]...]..]].....]]].]]))))....))).))))..[[[[........]]]]....

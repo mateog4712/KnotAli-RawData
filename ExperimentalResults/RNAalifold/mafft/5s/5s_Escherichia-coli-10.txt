@@ -1,0 +1,3 @@
+>5s_Escherichia-coli-10
+UGUCUGGCGGCAGUAGCGCGGUGGUCCCACCUGACCCCAUGCCGAACUCAGAAGUGAAACGCCGUAGCGCCGAUGGUAGUGUGGGGUCUCCUCAUGCGAGAGUAGGGAACUGCCAUGCAU
+..._((((((_....((....._(....((((((_(.......)_..))))..))....)_.....)).((.......((.(((((...))))).)).......)).._))))))_....

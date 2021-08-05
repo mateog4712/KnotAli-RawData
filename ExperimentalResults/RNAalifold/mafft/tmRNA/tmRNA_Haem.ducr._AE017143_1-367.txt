@@ -1,0 +1,3 @@
+>tmRNA_Haem.ducr._AE017143_1-367
+GGGGCUGAUUCUGGAUUCGACGGGAUUAGCGAAGUCCAAGGUGCACGUCGAGGUGCGGUAGGCCUCGUAAACAAACCGCAAAAAAAUAGUCGCAAACGACGAACAAUACGCUUUAGCAGCUUAAUAACCUGCAUUUAGCCUUCGCGCCCUAGCUUUCGCUCGUAAGACGGGGAGCACGCGGAGUCAAACCAAAACGAGAUCGUGUGGACGCUUCGGCUUGUAGAUCGAAACACCAAAUUGAAUCAAGCUAGUUUAUUUCUUGCGUGUCUGUCCGCUGGAGAUAAGCGAAAUUAAAGACCAGACUAAACGUGUAGUACUGAAGAUAGAGUAAUUUCGGACGGGGGUUCAAAUCCCCCCAGCUCCACCA
+(((((((.....(.......).....................(((((((((((.........)))))..........................................((....)).............................................................................................................................................................................................))))))...........................(((((.......))))))))))))....

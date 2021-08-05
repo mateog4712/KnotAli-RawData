@@ -1,0 +1,3 @@
+>tmRNA_Cyan.cald._AF022186_1-254
+GGGGCUGAAAGGAUAUUCGACAUAUUAAUUUCGUGCGCUAUGAUGCAAGCCGAGAAUGCUUAUCUCGUAAAAAAGCAGACAAAGAAAUAAAUGCAAACAAUAUUAUUGAAAUUAGCAAUAUUAGAAAACCAGCUCUAGUAGUCUAGCCUGAUUCAGUUAUUUCUAAAUUAUUUAUGUUAUGUUAUUUAAGCUUGUAGUAACUAUCUAGUGUACAAUUUCUAUGGACGUGGGUUCAAUUCCCACCAGCUCCACAA
+[[.[(([.............[([[..([.[[.[[[[[[[[.[[[[[(((([[[[[.......]]]]]...............[[[[[[[[.[[.......[[.[[[[[.......]]]]].]]......[[[..[[[[....]]]].]]]...]].]]]]]]]].........................))))]].......]]]]]]]]]]]]].]).]])]...(([([.......])]))]))].]]....

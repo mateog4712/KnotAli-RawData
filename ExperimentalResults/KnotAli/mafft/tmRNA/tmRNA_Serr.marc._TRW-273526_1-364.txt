@@ -1,0 +1,3 @@
+>tmRNA_Serr.marc._TRW-273526_1-364
+GGGGCUGAUUCUGGAUUCGACGGGAUUUGCGAAGCCCUAGGAGCAUGCCGAGGGGCGGUUGGCCUCGUAAAAAGCCGCAAAAAAAUAGUCGCAAACGACGAAAACUACGCUUUAGCAGCUUAAUACCCUGCUUAGAGCCCUCUCUCCCUAGCCUCCGCUCUUAGGACGGGGAUCAAGAGAGGUCAAACCCAAAAGAGAUCGCGUGGAUGUCCUGCCUGGGGCUGAAGCGUUAAACUCAAUCAGGCUAGUCUGUCAGUAGCGUGUCCAUCCGCAGCUGGCCGGCGAAUGUAAAGAUUGGACUAAGCAUGUAGUGCCGACGGUGUAGUAAUUUCGGACGGGGGUUCAAAUCCCCCCAGCUCCACCA
+[[[[(([[([...])].....([[(([.......(....((.[[((([[[(((.........)))]]......[[[[..........[[[[....]]]].........[[[[[[[[[[.........]]]].]]]]]].........[[[[[[[...[((([.....[[[[[[[......]]]]...]]]..])))]...[[[[....[[[[[....]]]]]....]]]]...........]]]]]]]...[[[[[[.([(........)]).]]]]]]]]]]....................])))]]....))...).......]))]])....(([[[.......]]]))]))]]]]....

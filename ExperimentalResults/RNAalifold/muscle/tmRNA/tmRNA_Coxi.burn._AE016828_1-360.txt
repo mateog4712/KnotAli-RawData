@@ -1,0 +1,3 @@
+>tmRNA_Coxi.burn._AE016828_1-360
+GGGGGCGACCAGGCUUCGACGUGGAUCCUGAAACCCGAGACGCAUGUCGAGCCGGCAACGAAGGCUCGUAAAUCCAUCAGUUGCAAACAGAUAGUUGCAAACGAUAGUAAUUAUCUCCAAGAAGCUUACGCAUAAAGCUUCUUCCGUUGCUGGGAUUCGCUUAUAGAUCCCUACCAACGGCCAUAGCAUAUAAGCUCGCCCUCAAGCAUGGCUCAUGACUUGAAGGUUAAACAGAAGAGCUCGCAGUCAAUUUCCCCUGCACGUCGGGCGAUUGACUGUUAAAUCAUAGACGAUGCUAAGCAUGUAGUGUCAACGGCGGAUGAUUUACGGACGCGGGUUCAAUUCCCGCCGCCUCCAUCA
+(((((((..........(.((((((((......(.......(((((((((((...........))))).............................................._(....)_.................................................................................................................................................................................)))))).........)......))))))))..)(((((.......))))))))))))....

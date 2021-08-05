@@ -1,0 +1,3 @@
+>tmRNA_Pedi.pent._CP000422_1-369
+GGGGUCGUUAUGGAUUCGACAGGUAUGGGUCGAGCCAUGACUGCAUUUCGUAGGUUACGGCUACGUAAAAACGUUCAGUUUAUUAUAACUGCAAAAAAUAAUAACAAUUCUUACGCUUUAGCUGCCUAAUAGUAGCUUGACGUAGAUCCGCCUAGUCUCGUCCAUGGGCUAGAUACGGGUCCUAAAUGAAGUGGACUUGCGCUUAAGUACUGGCCUGGGUGCUUAAGAAGAGGAUUUACAGACUAGCGUUUUAAUGAAGCCCCGACAUACGGCGUCUUAUUUCGCGAAAUUUAAGUAGUAUGAAUAUGAAUGUAGAUGUCAUGGUGGCGACAUGCUUGGACGCGGGUUCGACUCCCGCCGACUCCAUUU
+[[[[(([.(....)......([[(([(.[[[..[[[[[((([[[((([[[(((.......)))]]..........[[[[[......]]]]]...............[[[[.[[[[[[[.[[[[[[......]]]]]]....[[[[[[[[..........[[((([[[[[.........]]]]........])))]].....[[[[[[[[[[......]]]]]]]]]]....]]]]]]]]......[[[...[[[.[[.[[.(........)]].]]]]]...]]].......]]]].]]].]]]]..])))]]]...)))]]]]]]]]..)]))]])....(([[[.......]]]))]))]]]]....

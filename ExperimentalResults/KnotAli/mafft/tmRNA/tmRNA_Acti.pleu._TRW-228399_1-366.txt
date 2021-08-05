@@ -1,0 +1,3 @@
+>tmRNA_Acti.pleu._TRW-228399_1-366
+GGGGCUGAUUCUGGAUUCGACGGGAUUAGCGAAGUCCAAGGUGCACGUCGAGGUGCGGUAGGCCUCGUAAACAAACCGCAAAAAAAUAGUCGCAAACGACGAACAAUACGCUUUAGCAGCUUAAUAACCUGCUCAUAGCCUUAUCGCCUCAGCUUCCGCUCGUAAGACGAGGGCAACGAUAAGUCACCCAAAACGAGAUCGUGUGGACGCCGCCGUUUGAGGAUCGAAACACUAAAUUGAAUCAAACUAGCUUAUUUCUUGCGUGUCUGUCCGCUGGAGGUAAGUGAAAUUAAAGACCAGACUAAACGUGUAGUGCUGAAGAUGGAGUAAUUUCGGACGGGGGUUCAAAUCCCCCCAGCUCCACCA
+[[[[(([[([...])].....([[(([(......(....(([[[((([[[((([.......])))]]...................[[[[[.[[[[[[.[[........[[[..[[[[[.........]]]]]...]]]......[[.[[.[[.....[((([........[[[........]]].......])))].....]].]].]]]].]]]]]]..[[[[[[.........]]].]]]......[[[[[[[[[[.([(........)]).]]]]]]]]]]..............]]]]].])))]]...]))...)......)]))]])....(([[[.......]]]))]))]]]]....

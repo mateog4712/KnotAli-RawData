@@ -1,0 +1,3 @@
+>tRNA_tdbR00000279-Spinacia_oleracea-3562-Met-CAU
+ACCUACUUAACUCAGCGGUUAGAGUAUUGCUUUCAUACGGCGGGAGUCAUUGGUUCAAAUCCAAUAGUAGGUACCA
+(((((((____________________((((_______))))_______((((_______))))_)))))))____

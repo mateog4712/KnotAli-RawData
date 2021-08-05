@@ -1,0 +1,3 @@
+>tmRNA_Fuso.nucl._AE009951_1-344
+GGGGAUGCAAAGGUUUCGACGGGGUUGUGAGGUUAUAGGUAGCAAGUCAGGCUUGUCGCUGUGAGAGACUAAACACAUCUUUUAGAUGGAAACAAAGAUUACGCUUUAGCUGCUUAGUUCAGCUACACCUUGGAUAACUUAUUCUAUACGGGUUUUUCAAAGGUGUUGACUAGUAUAGAUCACCAUAAAUGAUUUCUCUAAGUUUAUGGGACAUUUUAGAGGAUAGUUUUAGUUAGCCCUGUUUACGGGAGUAAUUAUUACGAAAUUUAAUAGUAAACUAAACUUGUAGAAGCUUAUGGUCAUUAUGAUUUCGGACACGAGUUCGACUCUCGUCAUCUCCACCA
+(((((((....(.......)......................__((___((_(.............)_))_...............................((....))...........................................................................................................................................................................__))__.............................(((((.......))))))))))))....

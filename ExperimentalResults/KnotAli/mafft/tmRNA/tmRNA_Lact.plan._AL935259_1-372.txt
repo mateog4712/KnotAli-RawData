@@ -1,0 +1,3 @@
+>tmRNA_Lact.plan._AL935259_1-372
+GGGGAUGUUCUGGAUUCGACAGGUAUAGUUUGAGUUCGGAUUGCGCUUCGUAGGUUGUGUCUACGUAAAAACGCUCAGUUUAAAUUAUAACUGCAAAAAAUAAUAACAAUUCUUACGCUUUAGCUGCCUAAUAAGCGCUUAACGUAGAUCCUCCCAGGAUCGUCCAUGUUCUGGAUCUGGGUCCUAAAUUUAGUGGACUUACGCUCAAAGCUUCCACCUGGAGUUGCGAGAAGAGACUAAUCAGGUUAGUCAUUGCUGGGUGCCCUGUCAUACGGCGUUUGCAAUGAUGAAAUUUAAAUAGUAUGAAUAUGAGCGUAGAUAUCCGAGGGGCAAUAUGCUUGGACGCGAGUUCGACUCUCGCCAUCUCCAUUA
+[[[[(([.(....)......([[(([(..[[[...[[[((([[[((([[[(((.......)))]]..........[[[[[........]]]]]...............[[[[.[[[[[[[[[[[.[[[[....]].]]........[[[[[.....]]]]][[((([.....[[[[....]]]]........])))]]....]]].]]]]]....[[[[[[[[[[.........]]]]..]]]]]]..[[[[[[[[.[[[[[[.(........)]]]]]]]]]]]]]]............]]].]]]]..])))]]]...)))]]]....]]])]))]])....(([[[.......]]]))]))]]]]....

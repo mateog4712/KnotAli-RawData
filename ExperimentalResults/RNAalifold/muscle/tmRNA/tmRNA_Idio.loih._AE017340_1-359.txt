@@ -1,0 +1,3 @@
+>tmRNA_Idio.loih._AE017340_1-359
+GGGGCUGAUCUGGAUUCGACGGGAUACACGAAACCCAAGGUGCAUGCCGAGGUGAGGCAGGCCUCGUAAAAAGCCUCAACCUAAUAGUUGCAAACGACGACAACUACGCUCUAGCGGCUUAAUAACCCGCUAAGCCCAUCCCCCGGCGCUUUGUCUGCGAGACCGGACCAGGAUGGCUCAAACUAAUGUAGACUCGCGUGGAGGCUUUGUCCGGAGCUGAAGCGUUAAAACCAAUCGGACUCGUCAGUUGUGAAGCCUGUCAGUCGGCGUCACACUGAUUAACUAAAAGACUGACUAAGCAUGUAGGACCGAGGAUGUAGGUAUUGCGGACGCGGGUUCAACUCCCGCCAGCUCCACCA
+(((((((..........(.((_(((((......(.......(((((((((((.........))))).........................................((....)).......................................................................................................................................................................................)))))).........)......)))))_))..)(((((.......))))))))))))....

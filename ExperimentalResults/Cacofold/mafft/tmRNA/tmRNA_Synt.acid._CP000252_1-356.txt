@@ -1,0 +1,3 @@
+>tmRNA_Synt.acid._CP000252_1-356
+GGGGGCGUUACGGUUUCGACGGGGAUAGUUGAAGCUGUAGAAGCGUACCGAGGUUCCUACAGGCCUCGUUAAACAGGUAGGAAAACAAUACUCGCAAACGACUACGAGUACGCAUUAGCCGCUUAGUCGGCUAACGUUCUUUCUGAUUUUUCCUGUCGGAUCAGAGGGGGCGUAAUUUCAGGCAGGAUAGUCCUAACCUUUUCCUGUGGGGAACAGGGCGAAAUUCACAUGGGAUAGCAAUCAGUAAAGCCUGCCUUUGGGCGUUACAGAGUGCGAAUGACAAAACAAAGGAUACGUACGUAGAAACUGCAGUGGAAUAUUUUCGGACGCGGGUUCGACUCCCGCCGCCUCCACCA
+[[[[[[__...........(((___..............(__((((((<<<<<<___...__>>>>>>..................................................................___<<<<<_<<________<___<<._________<_..............._>__>>___>________>>_>>>>_>____...............................<<<........>>>.................................))))))...__).............)..))...<<<<<.......>>>>>.]]]]]].__.

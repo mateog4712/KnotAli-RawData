@@ -1,0 +1,3 @@
+>tRNA_tdbR00000466-Saccharomyces_cerevisiae-4932-Val-AC
+GGUCCAAUGGUCCAGUGGUUCAAGACGUCGCCUUUACACGGCGAAGAUCCCGAGUUCGAACCUCGGUUGGAUCACCA
+(((((((_____________________((((_______))))_______((((_______))))_)))))))____

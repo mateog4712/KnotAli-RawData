@@ -1,0 +1,3 @@
+>5s_Legionella-pneumophila-2
+UCCUGGCGACUAUAGCGAUUUGGAACCACCUGAUACCAUCUCGAACUCAGAAGUGAAACAUUUCCGCGCCAAUGAUAGUGUGAGGCUUCCUCAUGCGAAAGUAGGUCAUCGCCAGGGU
+..(((((((_....((....._(....(((((((_......._)..))))..))....)_.....)).((.......((.(((((...))))).)).......)).._)))))))...
