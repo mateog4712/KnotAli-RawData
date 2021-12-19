@@ -1,0 +1,3 @@
+>tmRNA_Thio.crun._CP000109_1-358
+GGGGAUGCACUGGUUUCGACGGGGAGUACAAAGUUUAGGAUGCAUGUCGUGCCUGAAUGAUGCACGUAAAUCUUUAUUUCAAUUUGUUAUAGUUGCAAACGACGAUAACUACGCUCUAGCGGCUUAAUCCCGCUAGCGCAGACUGGGACCGUUGUUCGUGGCACCCAGCUCUGUGUCGACUCACACGGAAUCGUCGGGUCUUAUGUGUUUGGAUAAGACUUGACUAAACUUAACAAACUCGCUUAAUGUGAUCCCUGCUGGCCGGGCAGCAUUAAGUUAAAAUAAUAGACCAAAUAAACAUGUAGAGUUUUAAAUGGAGGCUUCUCGGACGGCGGUUCGACUCCGCCCAUCUCCACCA
+[[[[[[[...((((.[[..[[[[[[[[.....[[[[[[[[[[[[[[[[[[[[.........]]]]]....[[[[[[[[[...[[[[[[[..[[[[[.[[[[[[[....[...[[.[[[[[[[.......]]]]]]].]].....]....]]]]]]].]]]]].......[[[[[[[......]]]]]]]...[[[[[[[[[[[[........]]]]]]]]]]]]......]]]]]]]...[[[[[[[[[...[[[........]]]..]]]]]]]]]..]]]]]].]]]........]]]]]]...]]]]]]]]]....]]]]]]]]]].[[[[[.......]]]]]]]]]]]]))))
