@@ -1,0 +1,3 @@
+>tRNA_tdbR00000114-Staphylococcus_epidermidis-1282-Gly-UCC
+GCGGGAGUAUUUCAACUUUUAGAAUACGUUCCUUCCCGGAACGAGAUAUAGGUGCAAAUCCUAUCUUCCGCUCCA
+(((((((___((__________))__(((((_______)))))_______((________))__)))))))____

@@ -1,0 +1,3 @@
+>tRNA_tdbR00000381-Haloferax_volcanii-2246-Ser-GCU
+GUUGCGGUAGCCAAGCCUGGCCCAAGGCGCUGGGUUGCUAACUCAGUGGCGUCAAGCCCCCGGGGUUCGAAUCCCCGCCGCAACGCCA
+(((((((___((_____________))__(((((_______)))))______________((((_________)))))))))))_...

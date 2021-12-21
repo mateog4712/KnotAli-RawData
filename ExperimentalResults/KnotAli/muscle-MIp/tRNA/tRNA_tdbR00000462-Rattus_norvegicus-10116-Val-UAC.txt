@@ -1,0 +1,3 @@
+>tRNA_tdbR00000462-Rattus_norvegicus-10116-Val-UAC
+ACAGAUUGUAGCUUAAUCACAAAGCAUCUGGCCUACACCCAGAAGAAUUCAUAAAAAUGAACACUUUGACCA
+___________((_________))__(((((_______)))))_______(_(___________)_)__...

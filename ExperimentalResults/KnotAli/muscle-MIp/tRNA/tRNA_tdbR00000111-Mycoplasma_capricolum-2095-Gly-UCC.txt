@@ -1,0 +1,3 @@
+>tRNA_tdbR00000111-Mycoplasma_capricolum-2095-Gly-UCC
+GCAGGUGUAGUUUAAUGGUAGAACUUCAGCCUUCCAAGCUGAUUGUGAGGGUUCGAUUCCCUUCACCUGCUCCA
+(((((((___((_________))___((((_______))))_____((((_________)))))))))))_...

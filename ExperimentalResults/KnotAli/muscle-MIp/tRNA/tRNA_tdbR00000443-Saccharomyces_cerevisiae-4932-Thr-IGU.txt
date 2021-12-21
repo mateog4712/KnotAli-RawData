@@ -1,0 +1,3 @@
+>tRNA_tdbR00000443-Saccharomyces_cerevisiae-4932-Thr-IGU
+GCUUCUAUGGCCAAGUUGGUAAGGCGCCACACUAGUAAUGUGGAGAUCAUCGGUUCAAAUCCGAUUGGAAGCACCA
+(((((((___((__________))__(((((_______)))))_____((((_________)))))))))))_...

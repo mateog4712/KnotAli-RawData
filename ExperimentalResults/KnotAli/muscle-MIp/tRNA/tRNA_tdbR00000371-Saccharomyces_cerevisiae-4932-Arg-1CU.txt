@@ -1,0 +1,3 @@
+>tRNA_tdbR00000371-Saccharomyces_cerevisiae-4932-Arg-1CU
+GCUUGCGUGGCGUAAUGGCAACGCGUCUGACUUCUAAUCAGAAGAUUAUGGGUUCGACCCCCAUCGUGAGUCCCA
+(((((((___((_________))__(((((_______)))))_____((((_________)))))))))))_...

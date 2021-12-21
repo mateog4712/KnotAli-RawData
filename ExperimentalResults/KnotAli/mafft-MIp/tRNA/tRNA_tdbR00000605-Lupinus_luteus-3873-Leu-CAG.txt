@@ -1,0 +1,3 @@
+>tRNA_tdbR00000605-Lupinus_luteus-3873-Leu-CAG
+GUCAGGAUGGCCGAGUGGUCUAAGGCGCCAGUUUCAGGUACUGGUCUCGAACCGGGCAUGGGUUCGAAUCCCAUUCUUGACACCA
+(((((((___(____________)____((((_______))))______________((((_________)))))))))))____
