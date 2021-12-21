@@ -1,3 +1,0 @@
->srp_Vibr.vuln._AE016795
-GGGGGCUCUGUUGGUUCUCCCGCAACGCUACUCUGUUUACCAGGUCAGGUCCGGAAGGAAGCAGCCAAGGCAGAUGACGCGUGUGCCGGGAUGUAGCUGGCAGGGCCCCCACCC
-[[[[[[[[[[[[[[[[[[[[[[[[[[[[...[[[[[[.....([[....([[....]])....]])..]]]]]]....]]]].]].]]]]].].]]]]]]]]]]]]]]]]....

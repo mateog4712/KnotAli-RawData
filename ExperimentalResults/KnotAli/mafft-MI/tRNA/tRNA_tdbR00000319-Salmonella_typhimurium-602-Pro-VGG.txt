@@ -1,0 +1,3 @@
+>tRNA_tdbR00000319-Salmonella_typhimurium-602-Pro-VGG
+CGGCGAGUAGCGCAGCUUGGUAGCGCAACUGGUUUGGGACCAGUGGGUCGGAGGUUCGAAUCCUCUCUCGCCGACCA
+_((((((____(___________)____((_(_______)_))______(((___________)))))))))_____

@@ -1,3 +1,0 @@
->srp_Clos.diff._AM180355
-GUACUAGAUGGGGAGGUAGCGGUGCCCUGUAACCUGCAAUCCGCUAUAGCAGGAUUGAAUUCCAUCUAAAGGCUUAUUUUCUGUAGGGCCGCCCUAAAUAAGUGGUGUUGAUGCUUAGGUCCUGCGCAAUGAAAGCUCAUGAACCCCGUCAGAUCCGGAAGGAAGCAGCGGUAAGUGAUCACUUUUGUGUGCCGUGGGGGUGCCUAAGUUGAGCUAACUGUUUUGGUAACGCCUAUGG
-[[..[[[[[[[[.[[[[.[[[[....]]]].]]]].[[[[[[[[....]].]]]]]]...]]]]]]]]...]].......[[[[[[[.....[[.[[[[...[[[[......[[[[[[[[[[[[[[[[[[[[[[[.[[[[.....[([[....([[....]])....]])]...]]]]...]]]]]]].]].]]]]]]...]]]]]]]]...]]]]...]]]].]].....]]]]]]]

@@ -1,0 +1,3 @@
+>tRNA_tdbR00000224-Rhodospirillum_rubrum-1085-Leu-CAA
+GCCUUUGUAGCGGAAUGGUAACGCGGCAGACUCAAAAUCUGCUUUGGUAACCCAGGUGGUAGUUCGACUCUCCCCAAAGGCACCA
+_((((((___((_________))__(((_(_______)_)))_______________((_____________))))))))__...

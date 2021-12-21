@@ -1,0 +1,3 @@
+>tRNA_tdbR00000280-Saccharomyces_cerevisiae-4932-Met-CAU
+GCUUGUAUAGUUUAAUUGGUUAAAACAUUUGUCUCAUAAAUAAAUAAUGUAAGGUUCAAUUCCUUCUACAAGUACCA
+_((((((___((___________))__(((_(_______)_)))______((___________))_))))))__...

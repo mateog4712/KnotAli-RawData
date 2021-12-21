@@ -1,0 +1,3 @@
+>tRNA_tdbR00000406-Saccharomyces_cerevisiae-4932-Ser-NGA
+GGCACUAUGGCCGAGUGGUUAAGGCGACAGACUUGAAAUCUGUUGGGCUCUGCCCGCGCUGGUUCAAAUCCUGCUGGUGUCGCCA
+_((((((___(___________)____((_(_______)_))_______________((_____________))))))))_____

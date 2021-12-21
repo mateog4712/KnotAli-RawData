@@ -1,3 +1,0 @@
->tmRNA_Lept.inte._AE016823_1-350
-GGGGACGAAAUUGGUUUCGACUGUUGUUGCCAGGGGUUAUGUGGCGUGUAGAGGUUGUAGGCUCCUCUAAAAACCUUCAAACAAUAACCGCUAAUAACGAAUUAGCUUUAGCAGCUUAAUCUCUGCUACGGAACUUUAGUUUUUUCUCUCGAAUUCUAAAUGUUCUGACAAUGAUCGGGAGGCGAUUCUUUUGGUUUUUGGUUCCUAAAAGAGUUUGUAUUUGAGCCGAAUAGGAAAGAGAGUCCUGUCUGAGGGUGAACCUCUUUCCGAAAUUUUAUACACAGACUACACACGUAGAGGCUGAUCUGGGGCGCAAUAGGACGCGGGUUCGAACCCCGCCGUCUCCAAAG
-[[[[([[..............([[[[[..[[[[[[[[[.....[[[([[.[.[[[[...[[[[[......[[[[[[[............[[[[[[.....]]]]]]..[[[[[[........]]]]]].[[[[[[[[[[..[[[......]]]..]]]]].]]]]]..[[[.[[[[[[[[[[....]]]]]]]]]].]]]........]]].]]]]......]]]]].....[[[[[[[[...[[[......]]].....]]]]]]]]...............]]]].]]])]]]...]]]]..]]]]]...]]]]])....(([[[.......]]]))]])]]]]....

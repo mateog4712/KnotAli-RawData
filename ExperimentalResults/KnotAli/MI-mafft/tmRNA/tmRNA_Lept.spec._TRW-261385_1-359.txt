@@ -1,3 +1,0 @@
->tmRNA_Lept.spec._TRW-261385_1-359
-GGGGGCGAUCGGGUUCGACGGGGAUGAGAAAGCAAGGACAGCAUGCCGAGGUCCCAGGUCCUCGUAAAACCUUUGGGAAAAAGACAACUGCCAACGAAGAGCUGGCUCUCGCUGCUUAAUCUAAACAAUUAAGUGAGCGCGCUUAUCGGAUUUUGCGCCUGCCCGGAUCCGAAGGCGUGGAGAAGGCAGGAUCGCCAAGGGAACAUGCCUGGGUUCCCGAGGUUAAACCCUUACAGGCUCGCUGAUGACGGGUACGCCCCUCUUUCCCGUCGUUGGUCAGACUUAAACAGGGGCUAAGCAUGUAGCGGUUCUUGGCGGACUGUUUCCGGACGCGGGUUCAAUUCCCGCCGCCUCCACCA
-[[[[([[............([[[[[[.[...[[[[[[[[.[[[([[[[[[[.[....].]]]]]...[[[[[[.[[[[[...[[...[[[[[..[[[.[[[[..[[[[.....[[[[[[[.......]]]]]]]]]]]..]]]].]]]...[[[[[[[[[............]]]]]]]]]...]]]]]..]].[[[.[[.......]]]]].]]]]]]]]]]]...[[[[...[[[[[.[[[[[[[[[[[[.............]]]]]]]]]]]].]].]]]....]]]].....]])]]]....]]]]]].]]...]]]]]]])....(([[[.......]]]))]])]]]]....

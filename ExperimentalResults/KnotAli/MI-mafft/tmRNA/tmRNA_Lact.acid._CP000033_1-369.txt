@@ -1,3 +1,0 @@
->tmRNA_Lact.acid._CP000033_1-369
-GGGGAUGUUUUGGGAUUCGACAGGCGUAGACCCGCAUUGACUGCGAUUCGUAGGUUACGUCUACGUAAAAACGUUACAGUUAAAUAUAACUGCAAAUAACAAAAAUUCUUACGCAUUAGCUGCUUAAUUUAGCGCAUGCGUUGCUCUUGACCAGUUUACUCGUGACUGGUUUUCGAGUAUCAACUUUAGCGAGUUACGUUUAACUACCUCACCUGAAUAGUUAAAAAGAGUCUUAACAGGUUAGCUGGUUCAUACUAGCCCUGUUAUAUGGCGUUUUGAACUAGUGAAGUUUAAGUAAUAUAACUAUGAUCGUAGAGGUUAAUGACGAGAUGCGUUUGGACAGGGGUUCAAUUCCCCUCAUCUCCAUAG
-[[[[([[..............([[[[[[....[[[[[[[[[[[[[([.[[[[[.[[[[[....]]]]]....[[[[[.[[[[[[[.[[[[[[[.................[[[[[...[[[[.......]]]]...]]]]].[[[[..[[[[[[[[.......]]]]]]]]...]]]]..........]].]]]]].]]]]]]]......[[[[[...[[...........]]...]]]]]..[[[[[[[[[.....[[[.........]]]....]]]]]]]]].........]]]]]....]]]]]])]]]...]]]]]]]].]]...]]]]]])....(([[[.......]]]))]])]]]]....

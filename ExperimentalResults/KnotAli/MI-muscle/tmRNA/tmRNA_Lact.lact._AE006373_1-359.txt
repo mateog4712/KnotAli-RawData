@@ -1,3 +1,0 @@
->tmRNA_Lact.lact._AE006373_1-359
-GGGGGCGUUACGGAUUCGACAGGCAUUGUCGCGCAUGAACUGCAACUGCUGAGGGAUCAGGAUAAUCAUCCGCAGAUAAAUAUAACUGCUAAAAAUAAUACACAAACUUACGCAAUGGCAGCCUAAACAGCACCAUGCGUGCCUGAUUUUUGCUCUCUGAUGGCAAUUUGACGGCCUAAACUUUUAGUCAGAUACGUUGUUGUGGAGGCUUGACGCAGCAAAAGAGAUUUAAAGCCCCGCAAAAUGUCGCUGUUUGAGACUGGCUUUGGCAUUUUGUUAAAUUUGAGAAAGUCCUAUGGUUGUAGACGUUGAUGUAGCAAGGUGUUUGGACAGGGGUUCGACUCCCCUCGCCUCCAUUG
-[[.[([[............[([[[[[[[[.[[[[[....[[[[[[[[[...[[[[[[[[[[..........[[[[..........]]]]....................[[[[[.[[[..[[.......]].]]]]]]]].]]]]]]]]]]..[[[[.[[[[[[[[..[[..[[[[....[[[.....[[[...[[[[.[[[[[[.[[[[[....................]]]]]]]]]]]]]]]...]]]...]]]...]]]]....]]..]]]]]..]]].]]]]........]]]]]]]]]....]].]]].]]]..]]]]])]...(([[[.......]]]))]])].]]....

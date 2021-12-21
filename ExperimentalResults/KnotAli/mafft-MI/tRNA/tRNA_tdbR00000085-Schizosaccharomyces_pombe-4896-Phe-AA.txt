@@ -1,0 +1,3 @@
+>tRNA_tdbR00000085-Schizosaccharomyces_pombe-4896-Phe-AA
+GUCGCAAUGGUGUAGUUGGGAGCAUGACAGACUGAAGAUCUGUUGGUCAUCGGUUCGAUCCCGGUUUGUGACACCA
+_((((((____(__________)____((_(_______)_))______(((___________)))))))))_____

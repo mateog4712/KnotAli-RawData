@@ -1,3 +1,0 @@
->tmRNA_Clos.diff._AM180355_1-350
-GGGGGCGUAAAGGUUUCGACGUGGGUUUGGAACUUGAGGCUGCAUGUCGUGUUACUCUGGGUCACGUAAAAACUGGGGAACUUUAAAAUAAACGCAGACGAUAAUUUCGCGAUAGCAGCCUAGUUGCUGCUCGUCCCUCUUAGUCCUCCUGCCGACUAAGACUGGACGUCAUUAUGCAGGGAACUACUUUAGGGGUGUCUCGACUUGAAGUAGAUUAAUUGGGACUGGCUAAGCAUAGAGCCUGCCACUUGGCGCUAUGUGAGGUGAGAUAUUAGUGAAGUUGGCUAAGCAUGUAGAUGCAGCAAGGAAAAGAUUUGCGGACAGGGGUUCGACUCCCCUCGUCUCCACCA
-[[[[([[.............([[[[[[[....[[[[...[[[[[([[...[[[.[[[[[[............]]]]]]]]]....................[[[[[[[[[....[[[[[......]]]]].[[[[[.[[[[[[[[........]]]]]]]]..]]]]]........[[[....[[[[[[[[[[..........]]]]]]]]]].....]]]...[[.[[[..[[[[[[.[[[........]]].]]]]]]..]]].]]......]]]]]]]]].....]])]]]]]......]]]]....]]]]]]])....(([[[.......]]]))]])]]]]....

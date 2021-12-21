@@ -1,3 +1,0 @@
->tmRNA_List.wels._AF440351_1-321
-CAGGGAUAGUUCGAGCUUGAGUUGCGAGUCGGGGGGAUCGUCCUCGUUAUCAACGUCAAAGCCAAUAAUAACUGGCAAAGAAAAACAAAACCUAGCUUUCGCUGCCUAAUAAGCAGUAGCAUAGCUGAUCCUCCGUGCAUCGCCCAUGUGCUACGGUAAGGGUCUCACUCUAAGUGGGCUACACUGGCUAAUCUCCGUCUGAGGUUAGUUGGAAGAGCUUAAUCAGACUAGCUGAAUGGAAGCCUGUUACCGGGCCGAUGUUUAUGCGAAAUGCUAAUACGGUGACUACGCUCGUAGAUAUUUAAGUGCCGAUAUUUCUGG
-[[[.[[[[..[[[.[[[[[..[[[[[([[[[[[[[.....]]]]]]........[[[...[[[[........]]]].............[[[..[[[...[[[[[.......]]]]]]]].[[[[.[[[[[[[[[[[[[[.......]]]].]]]]..]]]]]]....[[[...[[[[[[...[[[[[[[[[[[[.....]]]]]]]]]]]]...]]]]]]...]]]...[[[[[[[[...[[[[[....]]]]]...]]]]]].]].....]]]]....]]]]]]...]])]]]]].....]]]]]..]]]]]]].]]].

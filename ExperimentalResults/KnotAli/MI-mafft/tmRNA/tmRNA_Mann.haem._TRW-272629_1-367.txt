@@ -1,3 +1,0 @@
->tmRNA_Mann.haem._TRW-272629_1-367
-GGGGCUGAUUUUGGAUUCGACGGGAUUGGCGAAGCCCAAGGUGCAUGUCGAGGUGCGGUAGGCCUCGUAAACAAACCGCAAAAUAAUAGUCGCAAACGACGAACAAUACGCUUUAGCAGCUUAAUAACCUGCUUUAAAGCCUUAUCUCCUCAGCUUCCGCUCGUAAGACGAGGGCAAAGAUAAGUCACCCAAAACGAGAUCGUGUGGACGCCGCCGCUUUAGGAUCGAAACACUAAAUUAAAUAAAGCUAGUUUAUUCAUUGCGUGUCUGUCCGCUGUGAAUAAGCGAAAUUAAAGACUAGACUAAACAUGUAGUACUGAAGGUAGAGAAAUUUCGGACGGGGGUUCAAAUCCCCCCAGCUCCACCA
-[[[[([[..............([[[[[..[...[[[...[[[[[[([[[[[[[[.......]]]]]]...................[[[[[..................[[[[[[[[[[.........]]]]......[.[[[[[[[.....[[[[.[[.[[....]]]].]]]]..]]]]]]].]...........[[[[..[[[[......]]]].....]]]]................]]]]]]..[[[[[[[[[[.[[[........]]].]]]]]]]]]].........]]]]]......]])]]]...]]]...]]]...].]]]]])....(([[[.......]]]))]])]]]]....

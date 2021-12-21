@@ -1,3 +1,0 @@
->tmRNA_Arth.spec._CP000454_1-369
-GGGGAUGAUCGGUUUCGACGAUGUUAGUCGCGACAGGUGAAGCGGGCCGAGGAUGCAGAAUUAUCUCGUAAACGCUGUCUGCAAAACAAUAAGUGCCAAACAAACGCGCACUGACUUCGCUCUCGCUGCCUAAGCAGUAAGACAGUCCGUCAGCCCGGGAUUGCUAUCGUCCCGGUUCCUGGCGUCAUUAAGAUAGCCACUGCUGUUUACCUUCGUCAUUGGGGUGAACGGGACUCUUAGAUGACUGGGCCCGGAUCAGCUACUUGUUUGCAGGAUAGCUGGGGCCGAGAAAAUCCGACGCAAACUGCGCCCGGAGAAGCCCUGACAACACGACAUCGGACGGGGGUUCAAUUCCCCCCAUCUCCACCA
-[[.[([[...........[([[[[[.[[.....[[[[.....[[([[..[[..[[[....[[[[[[.......[[[[[[[...........[[[[[...........]]]]]............[[[[[....]]]]].]]]]]]].[[[[[[.[[[[[[[.......]]]]]]]...]]]]]]......]]]]]]......[[[[[[[[[[[.......]]]]]]]]]]]........[[[..[[.[[[[[....[[[[[[[[[[....]]]].]]]]]]]]]]].]]...]]]....]]]..]]..]])]].......]]]].....]]]]]]])]...(([[[.......]]]))]])].]]....

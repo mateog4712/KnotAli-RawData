@@ -1,3 +1,0 @@
->tmRNA_Psyc.cryo._CP000323_1-359
-GGGGAUGUUCUGGCUUCGACGCUGGUGAUGAAACUCAAUGAUGCAUGUCGAGAGUAUAUGUCCUCUCGUUAAUCAAACAUAUAUUGUUAUAGUCGCAAACGACGAAAAUUACGCUCUAGCAGCUUAAACCCUGUUUACUUGGUUGCUGAUCAUCUACAGUUGGUCAACUAAGUUGAAGCGUCCGCAUGUAGAAGCGCCACAAGUGAUUGUCUCAAUUGCUUGGGUUUAAAAGUAGAGAAUCGUCCUAUCCAUCCUGACUGUCGGAUCGGUGCGGACUAAAACCAAAGACAGAAACUAAACAUGUAGAUUCAUGAGCGUAAUGCUGGCGGACGCGGGUUCAACUCCCGCCAUCUCCACCA
-[[[[([[.............([[[[[[......[[[[.[[[[[[[([[[[[[[[........]]]]]].......[[[[.....]]]]...[[[[....]]]].........[[[.....]]].......[[[[[[..[[[[[[........[[[[[[...[[.[..[[.......]].].]]...]]]]]]...[[[.[[[[[[[[[[...]]]]]]]]]]]]]................[[[[...[[[[[[........]]]].]]...]]]]...]]]]]]]]]]]].......]])]]]]...]]]]]]].....]]]]]])....(([[[.......]]]))]])]]]]....

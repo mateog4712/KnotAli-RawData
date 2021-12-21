@@ -1,0 +1,3 @@
+>tRNA_tdbR00000244-Rattus_norvegicus-10116-Leu-UAG
+AACUUUUAUAGGAUAGAAGUAAUCCAUUGGUCUUAGGAACCAAAAACCUUGGUGCAACUCCAAAUAAAAGUACCA
+__((((((___((_________))___((_(_______)_))______((___________))_))))))__...

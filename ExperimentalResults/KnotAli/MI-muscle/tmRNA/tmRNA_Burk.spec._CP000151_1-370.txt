@@ -1,3 +1,0 @@
->tmRNA_Burk.spec._CP000151_1-370
-GGGGGCGACCUGGUUUCGACAGGGGUUGUGAAGCGGCUAGGGCAUGUCGAGGACCCGUCACCUCGUUAAUCAAUGGGAAAAUCGUAACUGCAAACGACGAUACGUUCGCACUGGCAGCCUAACGGCCGCCGUCCUCUGCCUAGUUCACUGACGGGCUAGUGUCGCAAGACCGGUAGCAAUACCGCCAGAGGUCAUUUACGUCAGUUAAGCCCUGUCGGCGUCGCGACGCCAGGGUCGAAAACCUAGCGAAUCGCCGUAGUGCAGCGUGUUCGUCCGCGUCGCUGCGGUUAAAUCAAAUGACUGAACUAAACAUGUAGAACUAGUCGUGGAGCGCUUCUGGACGCGGGUUCGAUUCCCGCCGCCUCCACCA
-[[[[[[[...((((.[[..[[[[[[[.[[...[[[[[[[[.[[[[[...[[.....[[[[.[[[[[[....]]]]]].......[[[[[[[[..[[[[[[[[[[[[.[[[[.[[[.[[[....]]].]]][.[[[[[[.[[[[[[[......]]]]]]].[[[....]]][[[[[....]]]]].]]]]]].].....[[.[[[.......]]].]].[[..[[[[[[[.[[[........]]].]]]..]]]]]]..]]]]]]]]]]].......]]]]].]]]]]]]].......]]]]....]]...]]]]]....]]]]]]]]...]]]]]]]]]]].[[[[[.......]]]]]]]]]]]]))))

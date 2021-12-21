@@ -1,0 +1,3 @@
+>tRNA_tdbR00000528-Pichia_jadinii-4903-Ini-CAU
+AGCGUCUUGGCGCAGUGGAAGCGCGCAGGGCUCAUAACCCUGAUGUCCCUGGAUCGAAACCAGGAGACGCUACCA
+_((((((___((_________))__(((_(_______)_)))_____(((___________)))))))))__...

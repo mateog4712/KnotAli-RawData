@@ -1,3 +1,0 @@
->tmRNA_Aero.hydr._CP000462_1-360
-GGGGCUGAUUCUGGAUUCGACAAGAUUCACGAAACCCAAGGUGCAUGCCGAGGUGCGGUAGGCCUCGUUAAUAAACCGCAAAAAAAUAGUCGCAAACGACGAAAACUACGCACUCGCAGCUUAAUAACCUGCGCUGAGCCCUUCUACCCUAGCUUGCCUGUGUCCUAGGGAAUCGGAAGGUCAUCCUUCACAGGAUCGUGUGGAAGUCCUGCUCGGGGCGGAAGCAUUAAAACCAAUCGAGCUAGUCAAUUCGUGGCGUGUCUCUCCGCAGCGGGUUGGCGAAUGUAAAGAGUGACUAAGCAUGUAGUGCCAAGGAUGUAGUAAUUUUGGACGGGGGUUCAAAUCCCCCCAGCUCCACCA
-[[.[([[.............[([[[[[.[[.....[[..[[[[[[([[[[[[[[.......]]]]]]...................[[[[[[[....[[[.....[[[[[[...[[[[[.........]]]]]....[.[[[[[[.[[[[[[...[[....]].]]]]]]....]]]]]].].[[[[....]]]]..]]]]]]..]]]..[[[[[[[[[....]].......]]...]]]]]..[[[[[[[[[[.[[[........]]].]]]]]]]]]]...........]]]]]]].]])]]]...]]]..]].....]]]]]]])]...(([[[.......]]]))]])].]]....

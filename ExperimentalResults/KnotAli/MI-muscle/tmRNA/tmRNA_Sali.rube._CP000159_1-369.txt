@@ -1,3 +1,0 @@
->tmRNA_Sali.rube._CP000159_1-369
-GGGGAUGACACGGCUUCGACGUGUAGUAAGCGUGCAGCAGACUGACCUGCCGAGCAGCCUGAUUCGCUUCGUAAAACCUGUCAGGAACUGUAACUGCGGACGAUUAUUCGUACGCGAUGGCGGCGUAACAGCCCCCAUCUGUCUCGCGUCGCUCCUGGCCCUUGGGGAGCGUGAGACAUCGACAAAAAGGGUGUAGCCGCCGCGUUCUCCGACUGCGGAUGCGCCGGUGAAAUCUAAUCAGUCUCAGCGCCGCCCUGGCCUUGUGAAUGGGCAGACGGGCGACGUGAACCGCCAAUGCAUUCACUAUGCAGGUAGAGGUUUGCCUGUGCGGCUACACGGACCCGGGUUCGACUCCCGGCAUCUCCACAA
-[[.[([[............[([[[[[[...[[[[[[[[[[[[[.[[[([[...[[[[[[[[[[................]]]]]]..]]]]....[[[.[[[[....]]]].]]][[[[[.[[[......]]].]]]]].[[[[[[[...[[[[[[........]]]]]]]]]]]]]...[[[.....[[[[...[[[[..[[[[..[[[[....]]]].]]]]]]]]...]]]].....]]].......[[[[[..[[[[.......]]]]....]]]]]..[[[[[..[[....]].]]]]]...]])]]]...]]]]]].]]]]]]]]]]]]])]...(([[[.......]]]))]])].]]....

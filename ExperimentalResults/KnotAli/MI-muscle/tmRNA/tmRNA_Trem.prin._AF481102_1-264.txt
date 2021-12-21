@@ -1,3 +1,0 @@
->tmRNA_Trem.prin._AF481102_1-264
-GGGGAUGACAGGGAUUCGACACGGGGCAAGGGAUGGGGUGCCAUGCCGAACAGCCCAACGUUAGGGGCACGAAAGGUGCACCAAGUAAUAGGUUCACCAUUGUGGCUAACGAUUGCAUCGACGCGUUAGUCAGAAGAGCAGUGGUAUAGUGCGAAGGUACACUGAGGGACUAGGCUGACGGUCAUAGUGCGACUGUAAACAAAGCAUGUUGUGCACCCCACACCUCCCUGCUGGACGUGGGUUCAAUUCCCACCAUCUCCAGGC
-[[.[([[............[([[[[[..[[[...[[[[[[[[[([[.[.[[[[.....[[[[[[...[[[[[..[[[[.[[[........]]].]]]].]]]]].]]]]]]...[[[[.[[[.[[[[[[[[[[.....[[[[[......[[[....]]]]]]]].....]].]]]]]]]]]]]...]]]]..]]]]...]...]])]]....]]]]]]]...]]]]]]]].)]...(([[[.......]]]))]])].]]....

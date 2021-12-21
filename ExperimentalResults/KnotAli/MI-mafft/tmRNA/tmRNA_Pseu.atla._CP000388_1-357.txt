@@ -1,3 +1,0 @@
->tmRNA_Pseu.atla._CP000388_1-357
-GGGGCUGAUUUUGGAUUCGACAAGAUUCUUGAGGCUUUAGGUGCAUGCAGAGGAGCGGUUUGCCUCUUAAAAAGCCGCAUUUAAAUAGUCGCAAACGACGAAAACUACGCUCUAGCCGCUUAAUAACCGGCUAAGCCCUUCCACUCAUACUCUUUCUGCUAGUAGAGGUUCGGAAGGUCAUCCCAGCAGAAUAGCGAGGGAACCUUGUCUAAGGGUGAACCGCGAAAUAGUAUUAGGCCCGCUAUGAGAAAUCCUGUCUGCCGGAGUUCGAAAUAGUUAAAUAAAAGACAGAAUAAGCAUGUAGUACCGACGGUUAACGUUUUUUGGACGCGGGUUCAACUCCCGCCAGCUCCACCA
-[[[[([[..............([[[..[....[[[[...[[[[[[([[......[[[[[[[[[[.[[[[..[[[.............[[[[....]]]].........[[[.[[[[[[.........]]]]]]]]][[[[[[.[[[.[[[[.........]]]]]]]....]]]]]]...[[[[.[[......]]..]]]]..]]]...]]]]]]]]]]]]]]...[[[[[.........]]]]]........[[[[[[..........................]]]]]].....]])]]]...]]]...]]]]...]..]]])....(([[[.......]]]))]])]]]]....

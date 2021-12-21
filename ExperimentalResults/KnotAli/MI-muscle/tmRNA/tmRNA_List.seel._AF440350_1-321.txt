@@ -1,3 +1,0 @@
->tmRNA_List.seel._AF440350_1-321
-CAGGGAUAGUUCGAGCUUGAGUUGCGAGUCGGGGGGAUCGUCCUCGUUAUCAACGUCAAAGCCAAUAAUAACUGGCAAAGAAAAACAAAACCUAGCUUUCGCUGCCUAAUAAGCAGUAGCAUAGCUGAUCCUCCGUGCAUCGCCCAUGUGCUACGGAAAGGGUCUCACUUUAAGUGGGCUACACUAAAUAAUCUCCGUCUGGGGUUAGUUAGAAGAGCUUAAUCAGACUAGCUGAAUGGAAGCCUGUUACCGGGCUGAUGUUUAUGCGAAAUACUAAUACGGUGACUACGCUCGUAGAUAUUUAAGUGCCCAUAUUUCUGG
-...[[[[[...[[[[[...[[[[[[....[[[[[[.....]]]]]]........[[[...[[[[........]]]]...............[[[[[[...[[[[[.......]]]]]]]].]]]..[[[[[[[[[[[[[[.......]]]].]]]]..]]]]]]..........[[[[[[...[[[[.[[[[[[[.....]]]]]]].]]]]...]]]]]]....]]]..[[[[[[[[..[[[[[[....]]]]]]..]]]]]].]]..............]]]]]]..]]]]]....]]]]]......(((......)))

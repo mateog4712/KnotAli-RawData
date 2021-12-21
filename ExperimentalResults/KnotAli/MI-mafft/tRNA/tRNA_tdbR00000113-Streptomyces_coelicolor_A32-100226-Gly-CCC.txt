@@ -1,3 +1,0 @@
->tRNA_tdbR00000113-Streptomyces_coelicolor_A32-100226-Gly-CCC
-GCGGGUGUAGUUCAAUGGUAGAACAUCAGCUUCCCAAGCUGAGAGCGCGAGUUCGAUUCUCGUCACCCGCUCCA
-[((((((..[[([.......])]].[(([([.....])]))]....((([[.......]])))))))))]....

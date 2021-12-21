@@ -1,3 +1,0 @@
->tmRNA_Clos.perf._AP003190_1-358
-GGGGGCGUUUUGGCUUCGACGGGGGUAAGAUGGGUUUGAUAAGCGAGUCGAGGGAAGCAUGGUGCCUCGAUAAUAAAGUAUGCAUUAAAGAUAAACGCAGAAGAUAAUUUUGCAUUAGCAGCUUAAUUUAGCGCUGCUCAUCCUUCCUCAAUUGCCCACGGUUGAGAGUAAGGGUGUCAUUUAAAAGUGGGGAACCGAGCCUAGCAAAGCUUUGAGCUAGGAACGGAAUUUAUGAAGCUUACCAAAGAGAAAGUUUGUCUGUGGACGUUCUCUGAGGGAAUUUUAAAACACAAGACUACACUCGUAGAAAGUCUUACUGGUCUGCUUUCGGACACGGGUUCGACACCCGUCGCCUCCA
-[[[[([[.............([[[[[[.[[[.[[[..[[[..[[[([[...[[.[[[[..[[[.[[[[[....[[[[...................[[[[[[.....]]]]]]....[[[[[..........]]]]].[[[[[[[[[[[[[[[[....]]]]]]]].].]]]]]]]...]]]]....]]]]].]]]...[[[[[[..........]]]]]]...............]]]].]]..[[[[[[.[[[[[....]]]]].]]]]]]..........................]])]]].....]]]..]]].]]]]]]]]])....(([[[[.....]]]]))]])]]]].

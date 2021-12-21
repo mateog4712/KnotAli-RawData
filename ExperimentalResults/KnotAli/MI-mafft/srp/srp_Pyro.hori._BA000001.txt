@@ -1,3 +1,0 @@
->srp_Pyro.hori._BA000001
-GGCGGCGGGCUAGGCCGGGGGGUUCGGCGUCCCCUGUAACCGGAAACCGCCGAUAUGCCGGGGCCGAAGCCCGAGGGGCGGUUCCCGAAGCCGCCUCUGGAAGCCAGGGCCGAACGAUGAGUCCUCGUCCCGCGGGGUGCCCGGUGGGGGAGGCACGGCUGAAGGGCCGUGCUAACCCCCUUUGGGCCCCAAACCCCGCAAGGCCCGGAAGGGAGCAGCGGUAGGGGCCACGGAGCACGCUCGCGGGGGUGCGGGGAUGAGGUAGGCCCUGGUGAAAGGAGGCGGUGGAGGGUUCCCACCCUCGGGCGUGCCCGCCGCC
-[[[[[[[[[[..[[[[.[[....[[[[[[....[[[....]]]....]]]]]]....]]..]]]]...[[[[[[[[[..[[..[[[...[[[[[[[[[....[[[[[[[[[...[.....[[[[[[[[[[[[[[[[[[[[[[[..[[[[[.[[[[[[[[[....]]]]]]]]]..]]]]]....[[[[[[.....[[[[....(((....)))....]]]]..]]]]]].]]].]]]].]]]]]]]]...]]]]]]]]..]...]]]]]]]]]....]]]]]]]]]...]]]..]]..]]]]]]]]]..]]]]]]]]]]

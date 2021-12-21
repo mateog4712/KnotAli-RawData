@@ -1,3 +1,0 @@
->srp_Pyro.arse._CP000660
-GGCGGGGGGCUGCGCGGCGUGCCGGCCGCGCGCCGCCGAAAGGCGGACCCAGGCUAGGGAGCCCGAAACUGGGGCCGGGCGGCGCCUCCUGCGGCGUCCCGUCUUGGCUUACCGAUGAGCACCGGUCCAGGGGGGCGCCGGUCCCCAGGCUACCCCGGCCGUAGGGCCGGGGGGACUUGGGUAUGCGGGGAACAGGCGGAGGUCCGGGAGGGAGCACGCCUAACCCGUAGCCGGCGCGUUCCCU
-[[[[[[[.[[[[[[.[[.[[[[[[.[[[.[[.[[[[[....]]]]].[[[[[....[[....]]....]]]]]]]]]].]]]]]]..]]]]]]]].]]]]]]].[[[...[[[[........]]]]]]][[[[[[[[[[[[..[[[[[[...[[[[[[[[....]]]]]]]]...]]]]]]..[[[[[[....[[[[[....([[....]])....]]]]]..]]]]]].]]]]]]].]]]]].

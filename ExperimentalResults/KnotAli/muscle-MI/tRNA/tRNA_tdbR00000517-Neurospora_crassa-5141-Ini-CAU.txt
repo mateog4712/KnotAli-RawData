@@ -1,0 +1,3 @@
+>tRNA_tdbR00000517-Neurospora_crassa-5141-Ini-CAU
+UGCGGAUUAUUGUAAUAGUAACAUAUUUGGCUCAUGUCCGAAUGACAUAGGUGCAAAUCCUGUAUCCGCAUCCA
+_((((((___((_________))___((_(_______)_))_____(((___________)))))))))__...

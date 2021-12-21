@@ -1,3 +1,0 @@
->tmRNA_Aqui.aeol._AE000749_1-344
-GGGGGCGGAAAGGAUUCGACGGGGACAGGCGGUCCCCGAGGAGCAGGCCGGGUGGCUCCCGUAACAGCCGCUAAAACAGCUCCCGAAGCUGAACUCGCUCUCGCUGCCUAAUUAAACGGCAGCGCGUCCCCGGUAGGUUUGCGGGUGGCCUACCGGAGGGCGUCAGAGACACCCGCUCGGGCUACUCGGUCGCACGGGGCUGAGUAGCUGACACCUAACCCGUGCUACCCUCGGGGAGCUUGCCCGUGGGCGACCCGAGGGGAAAUCCUGAACACGGGCUAAGCCUGUAGAGCCUCGGAUGUGGCCGCCGUCCUCGGACGCGGGUUCGAUUCCCGCCGCCUCCA
-[[.[([[............[([[[[[.[[[[[[[[[[[[[[.[[[([[[[[[[[.[[[...........[[.....[[[[.......]]]].....]]...[[[[[[[.........]]]]]]][[[[[[[[[[[[[[[.......]]]]]]]]]].]]]]]...]]].]]]]]]....[[[[[[[[[[[[......]]]]]]]]]]]].........[[[[[[...[[[[[[[[..[[[[[....]]]]]..]]]]]]]]...........]]]]]]....]])]]]....]]]]]]..].]]]]]]]]]]]])]...(([[[.......]]]))]])].]].

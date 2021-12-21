@@ -1,0 +1,3 @@
+>tRNA_tdbR00000167-Aedes_albopictus-7160-Ile-GAU
+AAUGAAUUGCCUGAUAAAAAGGAUUACCUUGAUAGGGUAAAUUAUAAAGAUUUAAUACUUUAUUCAUUACCA
+_((((((___((_______))___((_(_______)_))______((___________))_))))))__...

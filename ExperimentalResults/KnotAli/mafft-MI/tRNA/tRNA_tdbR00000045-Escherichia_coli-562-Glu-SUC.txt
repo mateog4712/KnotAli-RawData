@@ -1,0 +1,3 @@
+>tRNA_tdbR00000045-Escherichia_coli-562-Glu-SUC
+GUCCCCUUCGUCUAGAGGCCCAGGACACCGCCCUUUCACGGCGGUAACAGGGGUUCGAAUCCCCUGGGGGACGCCA
+_((((((____(___________)____((_(_______)_))_____(((___________)))))))))_____

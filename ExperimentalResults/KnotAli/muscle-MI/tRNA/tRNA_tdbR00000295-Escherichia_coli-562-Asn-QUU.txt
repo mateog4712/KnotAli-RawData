@@ -1,0 +1,3 @@
+>tRNA_tdbR00000295-Escherichia_coli-562-Asn-QUU
+UCCUCUGUAGUUCAGUCGGUAGAACGGCGGACUGUUAAUCCGUAUGUCACUGGUUCGAGUCCAGUCAGAGGAGCCA
+_((((((___((__________))__(((_(_______)_)))_____(((___________)))))))))__...

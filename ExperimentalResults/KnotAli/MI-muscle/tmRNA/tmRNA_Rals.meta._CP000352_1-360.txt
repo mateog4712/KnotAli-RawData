@@ -1,3 +1,0 @@
->tmRNA_Rals.meta._CP000352_1-360
-GGGGCCGACCUGGUUUCGACGUGGGUUACAAAGCAGUGGAGGGCAUACCGAGGACCCGUCACCUCGUUAAUCAAUGGGAAUGCAAUAACUGCUAACGACGAACGUUACGCACUGGCAGCCUAAGGGCCGCCGUCCUCGCACUGGCUCGCUGACGGGCUAGGGUUCGCAAGAACCAGCGAGGUCAUUUACGUCAGAUAAGCUUCGGGAGUGUCACGGGCCCGAGGACGAAAACCUAGUGACUCGCCGUCGUAGAGCGUGUUCGUCCGCGAUGCGCCGGUUAAAUCAAAUGACAGAACUAAGUAUGUAGAACUCUCUGUGGAGGGCUUGCGGACGCGGGUUCGAUUCCCGCCGGCUCCACCA
-[[.[([[............[([[[[[[.....[[[[.[[[[.[[[([[...[[....[[[[.[[[[[[....]]]]]]..[[...[[[[[[...[[[[[[..[[...[[[.[[[[[.[[[....]]]....[.[[[[[[.[[[[[[[[....]]]]]]]][[[[[....]]]]].]]]]]].]......]]]]]....[[[[[[[[...........]]]]]]].].........]]]...]].]]]]]]...[[[[[[[.......]]]]]]]]]]]]]...]]..]]]]....]]..]])]]]....]]]]]]]]....]]]]]])]...(([[[.......]]]))]])].]]....

@@ -1,0 +1,3 @@
+>tRNA_tdbR00000338-Tetrahymena_thermophila-5911-Gln-JUA
+GGUUCCAUAGUAUAGUGGUUAGUACUGGGGACUUUAAAUCCCUUGACCUGGGUUCGAAUCCCAGUGGGACCUCCA
+_((((((___((__________))___((_(_______)_))_____(((___________)))))))))__...

@@ -1,0 +1,3 @@
+>tRNA_tdbR00000548-Scenedesmus_obliquus-3088-Tyr-GUA
+GGGCCGAUGCCGAAGUUGGUUAAUGGGGCGGAUUGUAAAUCCGCUGGUUACGCCUACGUUGGUUCGAAUCCGACUCGGCCCACCA
+_((((((____(___________)____((_(_______)_))______________(((___________)))))))))_____

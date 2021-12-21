@@ -1,3 +1,0 @@
->tmRNA_Shew.spec._CP000446_1-355
-GGGGGCGAUUCUGGAUUCGACAGGAUUCACGAAACCCUGGGAGCAUGCCGAGGGGCGGUUGGCCUCGUUAAAAGCCGCAAAGUUAUAGUUGCAAACGACGAUAACUACGCUCUAGCCGCUUAAUGCCGCUAGCCAUCUACCACACGUUUCGCACAUGGGCAGUGGAUUUGAUGGUCAUCUCACAUCGUGCUAGCGAGGGAACCCUGUCCGGGGGUGAACCGCGAAACAGUACCGGACUCACCGUGUGAGAUCCUGUCUUUCGGAGUUCAAACGGUUAAACAAUAGAAAGACUAAGCAUGUAGCGCCUUGGAUGUAGGUUUUCUGGACGCGGGUUCAAGUCCCGCCGCCUCCACCA
-[[.[[[[....((((...[[[.[[[[[[.[[...[[[[.[[......]].]]]].[[[..[[[[[[[[[..[[[.[[[..[[[[[[.[[[[....]]]].]]]]]]..[[[[[[[[.[[.....]].]]]]][[[[[..[[[[..[[[[.......]]]].]]]]....]]]]]..[[[[[[[[[.[[[.......[[....]].[[[[[[..[[..........]]....]]]]]].]]].]]]]]]]]]...[[[[[[[...[[[..........]]]....]]]]]]]..]]].....]]].]]].]]]].]]]]]..]]]..]].]]]]]]..]]].]]]].]]))))...

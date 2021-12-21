@@ -1,3 +1,0 @@
->tmRNA_Baci.cere._AE017194_1-355
-GGGGACGUUACGGAUUCGACAGGGAUAGUUCGAGCUUAGGUUGCGAGUCGAGGGGAUCGGCCUCGUUAAAACGUCAAAGCCUAUAAUUGGCAAACAAAACAAUCUUUCUUUAGCUGCUUAAUUGCACUAAAGGUUCCUCCCUCCAUCGUCCAUGUGGUAGGGUAAGGGACUCAAACUAAGUGGACUACGCCGGAGUUCGCCGUCUGAGGACAAAGGAAGAGAACAACCAGACUAGCAACUUGGAAGCCUGUCGAUAGGCUGAAGAGUUUGCGAAAUGCUAAUAUAUCGACUACACUCGUAGAAGCUUAAGUGCCGAUAUUUUUGGACGUGGGUUCGACUCCCACCGUCUCCACCA
-[[.[([[............[([[[[[[..[[[.[[[[[[[[[[[[([[[[[[[.......]]]]].......[[[...[[[.......]]]...........[[[[[[[[[[[[[[[[[[.[[[.......[[[[[[[[[[[[[[[.......]]]].]]]]..]]]]]]]]]]..]]]]]]].]]].[.[[[......]]].]........]]]]]]]].........]]]..[[[[[[[...[[[[[[....]]]]]]...]]].]]]]......................]])]]]...]]]]]]]]]..]]]]]]]]])]...(([[[.......]]]))]])].]]....

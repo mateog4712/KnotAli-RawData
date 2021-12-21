@@ -1,0 +1,3 @@
+>tRNA_tdbR00000472-Drosophila_melanogaster-7227-Val-IAC
+GUUUCCGUGGUGUAGCGGUUAUCACAUCUGCCUAACACGCAGAAGGCCCCCGGUUCGAUCCCGGGCGGAAACACCA
+_((((((____(__________)____((_(_______)_))______(((___________)))))))))_____

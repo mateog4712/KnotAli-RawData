@@ -1,3 +1,0 @@
->RNaseP_M.phosphovorus-JCM9379
-CACCGAGCAGGGUGGUGGGUAACACCCACCCGGGGUGACCCGCGGGAAAGUGCCACAGAAAGCAAACCGCCCCGAGCCGUACGCGGCACGGGGUAAGGGUGAAACGGCGGUGUAAGAGACCACCAGCAUCCCGGGUGACCGGGAUGGCUAGGCAAACCCCACCCGGAGCAAGAUCAAGAAGGAUGCCCCCGGGCAUCCGCGGGAGCGUUCGAGGGCUGCUCGUCCGAGGCUCCCGGGUAGAUCGCACCAGGCGGUCGGCAACGGCCGUCGCAGAUGGAUGAUCGUCACUCGGGCUCCGGCCCGAG
-......[[.[[[[[[.([[[...]]]).[([[[[....]]]].)].....[[[[...........[[[[[[[[[.[[[[....]]]].]]]]]]...]]].....[[.[[[.......]]].]]..[[[[[[[[....]]]]]]]]....]]]]....]]]]]]...]]..[[[[.....[[[[[[[....]]]]]]].[[[[[[[.[[[..[[[[.....]]]]]]]]]]]]]]....]]]]......[[[([[((....))]])]]]...[[[[[....]]]]].[[[[[[[....]]]]]]]

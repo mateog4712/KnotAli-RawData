@@ -1,0 +1,3 @@
+>RNaseP_Prochlorococcus-TAK9803-2
+CUGAGGAAAGUCCGGGCUCCCAUAUGGUCAGGCUUGCUGGGUAAUUCCCAGUGCGGGCAACCGUGAGGAUAGUGCCACAGAAACAUACCGCCUAAUACUUUAUGUAUGGCAAGGGUGCAAGGGUGUGGUAAGAGCGCACCAGCAACAUUGAGAAGUGUUGGCUAGGUAAACCCCGGCUGGGAGCAAGGCUUAGUAGAUUUAUGACCAUUGCACAAUCUGCUUUUAAGCGCCGCUUGAGACUGUGAAGUAAUUCCAGUUCUAGAUAGAUGAUUGCCCAUCUUAUUAAAGAUGAACAGAACCCGGCUUAC
+.[(((.(...)((((((((([([...])...(.((((((((.....)))))(((((....)))).)((...(((...).(...).(...[.([[(((.....))).]])])...((...)..(.(((.......))..))([[[[[[[[....]]]]]].]])...)..))))))).)])))(....(((...[((.(.((.......)).).......)...)]))).....(((.(((((.(((....)))))))))..))..((...)..)...[[((....)..).]].).)..))))))))].

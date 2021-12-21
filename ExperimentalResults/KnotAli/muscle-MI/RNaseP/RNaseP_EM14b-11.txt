@@ -1,0 +1,3 @@
+>RNaseP_EM14b-11
+GAGGAAAGUCCGGGCUCCAAAGGGCAGGGCGCCGGGUAAUACCCGGGGUGGGGAAACCCCACACGGUAAGGGCCACAGAAACGAGACCGCCGAAGCGGUAAGCCAGGCAAGGGUGAAAGGGUGGGGUAAGGGCCCACCGGCUCCGCGGUAACGCGGGGUGAGGGGGUAAAAAUCCCCCGGCGGGUUUUCCCGCUCUGGUAACCUCCCGCCCGGAGCAAGGCCAAGUAGCGCCGCACCCCGAAAGGGGAUAAGGUGGCCCGCCGAAAUGCGGUGCGGGUAGGCCGCAAUGGAAGUCGGGGGGCAACUCCCGACUCAAGAUAGAUGACCACCUAGUACAGAACCCGGCUUA
+(((.(...)(((((((.(.........((.((([(((...)))]..))..(((....)))....(......(...).(...)....[[..(...[[.....]]...)...]]((...)..(.(((.......))..))...((([[(....)]].)))........).....)).).).).)(.((..((.[[[[.[[...(([...[[.....]].]))]].....(...)[[[[[.....(........((((...))))....)..]]]]]]]]].))....))(.(.(((((..(((....)))))))))...)..(.......)......).)..)))))))).

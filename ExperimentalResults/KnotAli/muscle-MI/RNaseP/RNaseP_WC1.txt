@@ -1,0 +1,3 @@
+>RNaseP_WC1
+GAGGAAAGUCCGGGCUCCAUAGGGCGGAGUGCCAGGUAACGCCUGGGAGGCGCGAGCCUACGGAAAGUGCCACAGAAAACAACCGCCUAAGCGCGCAAGCGCCGGUAAGGGUGAAAAGGUGCGGUAAGAGCGCACCGCGCGGCUGGCAACAGUCCGUGGCUAGGUAAACCCCACUCGGAGCAAGACCAAAUAGGGAUCCUUUGGCGUGGCCCGCGCUGGAUCCGGGUAGGUUGCUAAAGGCGGUCAGUGAUGGUCGUCGUAGAGGAAUGACUGUCCUCGACAGAACCCGGCUUA
+(((.(...)(((((((((.(...)..(((((((((((...))))))(((((....)))).)((...(((...)......(.(....([..((......))...]))..).((...)..(.(((.......))..))((((((.((....).).))))).)....)..))))))))))))((..((((...[((.([(.(...((((((...)))))))).]))...)])))).[(...((((((((....))))))))....)])(.......)......).)..)))))))).

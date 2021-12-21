@@ -1,0 +1,3 @@
+>tRNA_tdbR00000193-Saccharomyces_cerevisiae-4932-Lys-UU
+UCCUUGUUAGCUCAGUUGGUAGAGCGUUCGGCUUUUAACCGAAAUGUCAGGGGUUCGAGCCCCCUAUGAGGAGCCA
+_((((((___((__________))__(((_(_______)_)))_____(((___________)))))))))__...

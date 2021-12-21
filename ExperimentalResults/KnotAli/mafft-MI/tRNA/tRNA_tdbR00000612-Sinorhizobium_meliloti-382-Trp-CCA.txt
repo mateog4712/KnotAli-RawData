@@ -1,0 +1,3 @@
+>tRNA_tdbR00000612-Sinorhizobium_meliloti-382-Trp-CCA
+AGGGGUAUAGCUCAGUUGGUAGAGCGGCGGUCUCCAAAACCGCAGGUCGGGGGUUCGAGCCCCUCUGCCCCUGCCA
+_((((((____(__________)____((_(_______)_))______(((___________)))))))))_____

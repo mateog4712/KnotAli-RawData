@@ -1,3 +1,0 @@
->tmRNA_List.gray._AF440336_1-321
-CAGGGAUAGGUCGAGCUUGAGUUGCGAGCCGGGGGGAUCGGCCCGUCAUCAACGUCAAAGCCAAUAAUAACUGGCAAACAAAACAACAAUUUAGCUUUCGCUGCCUAAUAGCAGUCUGAAUAGCUGAUCCUCCGUGCAUCACCCAUGUGCUACGGUAAGGGUCUCACUUUUAAGUGGGUUACGCUGGCUUAUCUCCGUCUGGGGCAAACGAGAAGAGCAUAAUCAGACUAGCUAGAUAGAGCCCUGACGCCGGGCAGACAUCUAUGCGAAAUCCAAAUACGGCAACUACGCUCGUAGAUGCUCAAGUGCCGAUAUUUCUGG
-..........[[[...........]]].(((([[[.((((((..[.[......].]...[[[[........]]]].............[[[[.[.[[[[[[.......[[[[[[[[[[[..[[[.[[[[[[[[[[[[[[.......]]]].]]]]..]]]]]].[[[[....]]]]......]]].[[[[.[[[[..............]]]].]]]]....]]]]]]].]]]]......[[[[.......]]]]..........]]]]]].].]]]]..[(((.(((((..))))).)))].....)))))).]]]))))

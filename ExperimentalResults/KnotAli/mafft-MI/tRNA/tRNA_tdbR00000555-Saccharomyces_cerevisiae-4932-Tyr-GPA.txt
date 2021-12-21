@@ -1,0 +1,3 @@
+>tRNA_tdbR00000555-Saccharomyces_cerevisiae-4932-Tyr-GPA
+CUCUCGGUAGCCAAGUUGGUUUAAGGCGCAAGACUGUAAAUCUUGAGAUCGGGCGUUCGACUCGCCCCCGGGAGACCA
+_((((((____(____________)____((_(_______)_))______(((___________)))))))))_____

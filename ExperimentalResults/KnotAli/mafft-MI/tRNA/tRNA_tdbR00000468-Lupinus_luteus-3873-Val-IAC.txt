@@ -1,0 +1,3 @@
+>tRNA_tdbR00000468-Lupinus_luteus-3873-Val-IAC
+GGUUUCGUGGUGUAGUGGUUAUCACGUCAGUCUAACACACUGAAGGUCUCCGGUUCGAGUCCGGGCGAAGCCACCA
+_((((((____(__________)____((_(_______)_))______(((___________)))))))))_____
