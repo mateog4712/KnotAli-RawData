@@ -1,3 +1,0 @@
->tmRNA_Stre.pyog._AE010048_1-348
-GGGGUUGUUACGGAUUCGACAGGCAUUAUGAGGCAUGUUUUGCGUCCCAUCGGCAGAUGUAAAUUGCCAGUUAAAUAUAACUGCAAAAAAUACAAACUCUUACGCUUUAGCUGCCUAAAAACCAGCUAGCGUGACUUCUACAAGAUUGCUUGUGUCCUGUUAGAAGUCUCAAAAUAGCAAGCUACGGUUACGAAAUUGUCUAGUUUCGUGACAAGAGAUUGAUAGACUCGCAAACUAAUGGCUUGAGUUAUGUGUCUUUAGUUUGUUAAAUGAAGACAUAACCUAUGGACGUAGACAAAUAUGUUGGCAGGUGUUUGGACGUGGGUUCGACUCCCACCGGCUCCAUCA
-[[.[(([............[(([(([(....[[[[[[[([[[[(((([[[[....]]]]....[[[[.[[[[[....]]]]]]]]]........[[[[[..[[[[[..[[[[[.........]]]]]]]]]][[[[[[[[[[.[[[.......]]].]].]]]]]]]]..........[[[[[[..[[[[[[[[[[......]]]]]]]]]]..[[[.........]]].........]]]]]]]]]]]...([[[[[[[..........]]]]]]]..)......))))]]]...])]]]]]]]....)]))]))]...(([([.......])]))]))].]]....

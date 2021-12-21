@@ -1,3 +1,0 @@
->tmRNA_Stre.pneu._TRW-216600_1-348
-GGGGUCGUUACGGAUUCGACAGGCAUUAUGAGGCAUAUUUUGCGACUCGUGUGGCGACGUAAACGCUCAGUUAAAUAUAACUGCAAAAAAUAACACUUCUUACGCUCUAGCUGCCUAAAAACCAGCAGGCGUGACCCGAUUUGGAUUGCUCGUGUUCAAUGACAGGUCUUAUUAUUAGCGAGAUACGAUUAAGCCUUGUCUAGCGGCUUGAUAAGAGAUUGAUAGACUCGCAGUUUCUAGACUUGAGUUAUGUGUCGAGGGGUUGUUAAAAUAAUACAUAACCUAUGGUUGUAGACAAAUAUGUUGGCAGGUGUUUGGACGUGGGUUCGACUCCCACCGGCUCCAUUA
-[[.[(([............[(([(([(....[[[[[[[([[[[((((.[[[[.[[[.......]]].[[[[[[....]]]]]].........]]]]...[[[[[[.[[.[[[[.........]]]]]]]]]]]]..............[[[[....[[....[[[[[[[....[[[.[[[[[...[[[[[[[[[[.........]]]]].......]]]]].....]]]]]]]]....]]]]]]].....]]...]]]].[[[[[[...........]]]]]]...))))]]]...])]]]]]]]....)]))]))]...(([([.......])]))]))].]]....

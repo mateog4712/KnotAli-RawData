@@ -1,3 +1,0 @@
->tmRNA_envi.sequ._TRW-363179_1-348
-GGGGGCGAAUAGGGUUCGACGUUUCUACUGGACUCCGAAGCGCAUGCCAAGAUUGUAGUAAUUCUUGUAAAACAUACUACAAAAAAAAUAGUUGCAAAUAACGACAACUACGCUUUAGCAGCUUAAUGCUAACCGAUGCAAGAAUUGACUGUGGUUUGAAGCAUCGGCUAAACACACAGUCUAGCCAAGCUAUAUUGCUUGGAUAUAGUUUGGUAAAAACUUAAUCAAGCUAGCUUUUAUGCCCUGCUCUUCGGGUGAUAAAAGUUAAAAAUAAUAGAAUGAGCUAUGCAUGUAGAAGUUAGGCUGAAGGAUUGACGGACGCGGGUUCAAUUCCCGCCGCCUCCACCA
-[[.[(([............[(([....[[.....[[.[(..[[((((.....[[[[[[[[..............]]]]]]]]......[[[[[[..........]]]]]].[[...[[[[[[[[..[[[........]]]......[[[[[[[[[[[..[[[....]]]]]]].]]]]]]]..[[[[[[[[[[[[[.....]]]]]]]]]]]]]............]]]]].]]].....]]...[[[([[[..[[..............]]....]]].)]]]...))))]].....)].]]....]]....]))]...(([([.......])]))]))].]]....

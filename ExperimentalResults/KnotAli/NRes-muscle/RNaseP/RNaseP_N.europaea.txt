@@ -1,3 +1,0 @@
->RNaseP_N.europaea
-GAAGCCGGUCAGACAGUCGCUGCCUGGUGACAGGGAGAGGAAAGUCCGGGCUCCACAGAGCAGGAUGCCGGUUAACGGCCGGCCGCCGUGAGGUGAGGAACAGGGCCACAGAGACGAGCGUAUUAAGUUACGGUGAAACGCGGUAACCUCCAUCCGGAGCAAGAUCAAAUAGGCAGAUGAUGACGCUGCUCGCUGAGUCUGCGGGUAGAUCGCUCGAGCACACGGGUAACUGUAUGCCUAGAGGAAUGACUGUCCACGACAGAACCCGGCUUAUCGGCCGGCUUC
-[[[[[[[[[[....[[[[[[[.[[[[....]]]].]].[[[.[[[[...[[[([........[(([[[[([(.....)])]]((([(....)])).)....[[[[[[...[...[[..[[[[......]]]].]]...]..]]]..]]].]]))]])]]]..[([[.....[[[[[.........]]]]][[[.......]]]....]])].[[[..[((.((((....)))).))]...]]]....]]]].]]]...........]]]]]....]]]]]]]]]]

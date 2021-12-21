@@ -1,3 +1,0 @@
->RNaseP_LGA2
-GAGGAAAGUCCGGGCCCCACAGAGCAGGAUGCCGGCUAACGGCCGGGCGCAGCAAGCUUCGCAAGAAGCCCAAGGCGACAGACACCAGUGCAACAGAAACAUACCGCCUAAGUCCGCAAGGACCGGCAAGGGUGAAAUCGUGCGGUAAGAGCGCACGGCCGUCCUGGUAACAGUGGCGGCGGGCAACCUCAUCCGGGGCAAGGCCAAAUAGGGGAGCAUUGGCGUGGCUCGCGUCGCUCCCGGGUAGGCUGCUAGAGGCCGUCGGCAACGACGGUCCCAGAGGAAUGGUUGCCCACGACAGAACCCGGCUUA
-.......[[[[..[[........]].]]]].[[[[[.....]]]]][[[.[[....]].]]]...(((((....[[.[[........]]]]..............[[[...[[[[....]]]].]]]..((((....((([[[[.......]]]]..[[[[[[[[[....]]].]]]]]]((((((((...[[[..[[[..[[[[......[[[[[[...[[[[[[...]]]]]]]]]]]].....]]]]]]].[.[[[[[[[[....]]]]]]]].]...]]]..)))))))).)))....))))))))).

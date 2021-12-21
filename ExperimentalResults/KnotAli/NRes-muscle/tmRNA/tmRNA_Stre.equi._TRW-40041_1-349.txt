@@ -1,3 +1,0 @@
->tmRNA_Stre.equi._TRW-40041_1-349
-GGGGUUGUUACGGAUUCGACAGGCAUUAUGAGGCCUAUUUUGCAACUCAUCGGCAGAUGUAAAAAUGCCAGUUAAAUAUAACUGCAAAAAAUAACACAACUUACGCUUUAGCUGCCUAAAAACCAGCCGGCGUGACUUCUAUAGGAUUGUUUGUGUCUUAUUAGAGGUCUCAAAACAGCAAGCUACGUUUAGGUGAUUGUCUAGUCACCUAAAAAGAGAACCCUAGACUCGCAGGCUGAUGGCUUGAGUUAUGUGUCCUUGGUCUGUUAAAGUAAGACAUAACCUAUGGUUGUAGACAAAUAGGUUAGCAGGUGUUUGGACGUGGGUUCGACUCCCACCAGCUCCAUCA
-[[.[(([............[(([(([(....[[[[[[[([[[[(((([[[[....]]]]......[[[.[[[[[....]]]]]]]]..............[[[[[[[...[[[[.........]]]].]]]]]]].....[[[[[.....[[[[[[[[[[[[...[[[[[......[[....[[...[[[[[[[[[[......]]]]]]]]]]...]]....]]]]]]].[[[[[[[[[.[[[...........]]].]]]]]]]]]...]]]]]]]]]]]]]]]]]))))]]]...])]]]]]]]....)]))]))]...(([([.......])]))]))].]]....

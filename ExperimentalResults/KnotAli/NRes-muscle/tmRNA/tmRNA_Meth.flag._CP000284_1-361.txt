@@ -1,3 +1,0 @@
->tmRNA_Meth.flag._CP000284_1-361
-GGGGCCGACCAGGUUUCGACGUGGGUUGCAAAGCAGCGCAGGGCAUACCGAGGCCUAGUCACCUCGUAAAUAAACUAGAACAAGUAUAGUCGCAAACGACGAAACUUACGCUCUAGCCGCUUAAUCCCGGCUGGACGCUGCACCGGAAGGCCUCUCGGCCGGGCGGGUAACCGCAGCAGCGUCAUUUAGAGAGGAUCGUGUUGUAUUGGGUUACUUAAUACAACAUUAAAUCCAAGGUAACUCGCCUGCUGUUCGCUUGCUCGUUGGUGGGCAUCAGGUUAAAUCAAACAACACAGCUAAGUAUGUAGAACUGUCUGUGGAGGGCUUGCGGACGGGGGUUCGAUUCCCCCCGGCUCCACCA
-[[.[(([............[(([(([(.....[[[[.[[[[.[[(((([[[[[........]]]]]........[[[[[.[[[[[...[[[[....]]]]...]]]]..].]]]]]............[[[[[[[[[[[[[.......[[[[....]]]]..[[[[....]]]].]]]]]]]].........[[[[.[[[[[[[[[[[[[...]]]]]]]]]]]]]...]]]]..[[[.....[[[[[.[[[[[[[[........]]]]]]]].]]]]]...]]]........]]]]]..))))]]....]]]]]]]]....)]))]))]...(([([.......])]))]))].]]....

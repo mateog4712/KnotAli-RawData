@@ -1,3 +1,0 @@
->srp_Bos.taur._GSP-6282
-GCCGGGCGCGGUGGCGCGCGCCUGUAGUCCCAGCUACUCGGGAGGCUGAGGCUGGAGGAUCGCUUGAGCUCAGGAGUUCUGGGCUGCAGUGCGCUAUGCCGAUCGGGUGUCCGCACUAAGUUCGGCAUCAAUAUGGUGACCUCCCGGGAGCGGGGGACCACCAGGUUGCCUAAGGAGGGGUGAACCGGCCCAGGUCGGAAACGGAGCAGGUCAAAACUCCCGUGCUGAUCAGUAGUGGGAUCGCGCCUGUGAAUAGCCACUGUACUCCAGCCUGGGCAACAUAGCGAGACCCCGUCUCUUA
-[[[...[[.((((((..((.......))....))))))]]...]]].[[[[[.[[.[..[[[[[[[.[[[[[[[....(((((((..((((((..[[[[[.....]]]]].)))))).)))))))...[[[[.[[[[[..[[[[[[....]]]]]]..]]]]].]]]].....[[[[[[[[......]]]].[[[[[[....[[[[..........]]]]....]]]]]]...[[[[[..[[[[....]]]]....]]]]]...]]]]..]]]]]]]..]].]]]]]..]]].]]]]]...

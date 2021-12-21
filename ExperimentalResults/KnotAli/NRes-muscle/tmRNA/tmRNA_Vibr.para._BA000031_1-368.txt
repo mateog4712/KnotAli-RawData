@@ -1,3 +1,0 @@
->tmRNA_Vibr.para._BA000031_1-368
-GGGGCUGAUUUAGGAUUCGACGGGAAUUCAGAAGUCUGAGGUGCAUGCCGAGGUGCGGUAGGCCUCGUUAACAAACCGCAAAAAAAUAGUCGCAAACGACGAAAACUACGCACUAGCAGCUUAAUACCCUGCUCAGAGCUCUCUCGCCCUAGCUUCCGCACGUAAGACGGGGAAUAACGAGAGAUCAAACCCAAACGCGCUAGCCCGGAUUCUCCCGCCUGAGAGAUGAACGGCGAAUUAUAAUUCAGGAUAGUCAUUCAUUAGCGUGUCGGUUCGCAGGUGGAUGGUGAAUUUAAAGAUCGACUAAGCAUGUAGUACCAAUGAUGAAAGGUUUUCGGACGCGGGUUCAACUCCCGCCAGCUCCACCA
-.[[[[.[[........]]...[[[.[[[...[[[.[[[.[[[[[....[[[[[[.......]]]]]].....................[[[[....]]]].........]]]]]..]]]]]]]]].]]].]]]]...[.[[[[[[[[[[...[[[........]]]...]]].....]]]]]]].]....[[..[[[[[[[[[....[[[[.[[[[[[[............]]]]............]]].]]]].....]]]]]]]]].]]......((((([.[.[[......[[[[[[.......[[[.........]]]......]]]]]].....[[[[[.......]]]]]]].]]))))).

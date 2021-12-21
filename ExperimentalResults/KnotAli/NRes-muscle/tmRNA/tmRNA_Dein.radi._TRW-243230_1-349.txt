@@ -1,3 +1,0 @@
->tmRNA_Dein.radi._TRW-243230_1-349
-GGGGGUGACCCGGUUUCGACAGGGGAACUGAAGGUGAUGUUGCGUGUCGAGGUGCCGUUGGCCUCGUAAACAAACGGCAAAGCCAUUUAACUGGCAACCAGAACUACGCUCUCGCUGCUUAAGUGAGAUGACGACCGUGCAGCCCGGCCUUUGGCGUCGCGGAAGUCACUAAAAAAGAAGGCUAGCCCAGGCGAUUCUCCAUAGCCGACGGCGAAACUUUAUGGAGCUACGGCCUGCGAGAACCUGCCCACUGGUGAGCGCCGGCCCGACAAUCAAACAGUGGGAUACACACGUAGACGCACGCUGGACGGACCUUUGGACGGCGGUUCGACUCCGCCCACCUCCACCA
-[[.[(([............[(([((..[[[..[[[[.[([[[[(((([[[[[[.......]]]]]].........[[[..[[[[......[[[[...]]]]........[[[[[[[.....]]]]]]][[[[..[[[[[..[[[........]]]..]]]]]..]]]]...........]]]].]]][[[[...[[[[[....[[[[..[[[.............]]].]]]]....]]]]]]]]][[([[[[.[[[...............]]]..]]]])]]....))))]]]...])]]]]]...]]].))]))]...(([([.......])]))]))].]]....

@@ -1,3 +1,0 @@
->tmRNA_Xyle.fast._AE009442_1-355
-GGGGGUGCACUGGCUUCGACGGGGGUCACAAAAUCACUUGGUGCAUGCCGAGGGGGCCGCUUUCCUCGUAAAUCCAGCAGCACACUUAUAGUUGCCAACGAAGACAACUUCGCUCUAGCCGCUUAAGGCUUAAGCCUCGAAACUGCUUGUGUCCGUGCUCGCAGCGUAGAGUCAUCAUCACGGAACCGCUGAGACGUGGCCGUCUGCCCACCCUUGGUUAAAUCUAGCAGACUGGUUUCCGGGUGCGCUUUGCCUGUCGUGCUGCCCGGCGACGAGACCUAACGGCCAGGAUAAGCAUGUAGGGCCGGGGACGGAGUACUUUCGGACGGCGGUUCGAUUCCGCCCACCUCCACCA
-[[.[(([............[(([(([.[[....[[.[[[[[[[[(((([[[[[[[[....]]]]]]]]..........[[[.[[[[[...[..[[[..[[[[[....]]]]]....[[[[......]]]]...[[[.[[...[.[[.....[[[[[[[[[........]]].......]]]]]]...]].]...]].]]].[[[[[[[[[....]]].........]]]]]].]]]..].]]]]].]]]...[[([[[[[[[[....]]].]]]]..[[....]].])]]....))))]]...]]]]]]]]....]]]))]))]...(([([.......])]))]))].]]....

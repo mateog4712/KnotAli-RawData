@@ -1,3 +1,0 @@
->tmRNA_Dict.ther._TRW-14_1-350
-GGGGGCGAUUGGUUUCGACAGGGAGUACAAGGAUCAAAAGCUGCAAGCCGAGGUGCCGUUACCUCGUAAAACAACGGCAAAAAAGAAGUGCCAACACAAAUUUAGCAUUAGCUGCUUAAUUUAGCAGCUACGCUCUUCUAACCCGGGCUGGCAGGGUUAGAAGGGUGUCAUAAUGAGCCAGCUGCCCCUUCCGACUCCCCUAAGGAAGGGAAAGAUGUAGGGGAUAGGUGCUUACAGAAUCCUGCGGGAGGGAGUCUGUAAGUGCCGAAAAGUUAAAACUCCCGCUAAGCUUGUAGAGGCUUUUGAUUCUUGCUCUCUGGACGCGGGUUCGACUCCCGCCGCCUCCACCA
-[[.[(([...........[(([(([(..[[[[[[[[[[[[[[[[(((([[[[[[[....]]]]]]].........[[........[[[[[[[...........[[[..[[[[[[[[......]]]]]]]][[[[[[[[[[[[[[.........]]]]]]]]]]]]]].............]]].[[[[[.[...[[.[[[[.....]]]]..]]..].]]]]]...]]]]]]].......]].[[[([[[.....[[.............]]......]]])]]]...))))]]...]]]]]]]]]]]]]])]))]))]...(([([.......])]))]))].]]....

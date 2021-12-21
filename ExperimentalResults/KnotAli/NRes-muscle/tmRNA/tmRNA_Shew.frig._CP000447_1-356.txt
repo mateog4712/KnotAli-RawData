@@ -1,3 +1,0 @@
->tmRNA_Shew.frig._CP000447_1-356
-GGGGGCGAUUCUGGAUUCGACAGGAUUCACGAAACCCAAGGAGCAUGUCGAGGGGCGGUUGGCCUCGUAAAAAGCCGCACCGUUAUAGUUGCAAACGACUCUAACUACUCUCUAGCAGCUUAGGCUAGCUAGCCAUCAACCACACGUUUCGCACGUGGACAGUGGAUUCUGAUGGUCAUAUUACAGUGUGCUAGCGAGGGAACUCCGUCCGGGGGUGAACCGCGAAACAGUACCGGACUCACCAAGUAGCAUCCUGUCUUUCGGAGACUGCUUGGUUAAAUAAAAGAGAGACUAAACAUGUAGUGCCGAGGAUGUAGGCUUUCUGGACGCGGGUUCAAGUCCCGCCGCCUCCACCA
-[[[[[[[.[[[[[[[...[[[[[[[[.[[[....[[[...[[[[.[[[.[[[[[[[[[[[............]]]]]]...[[[[.[[[[[....]]]]].]]]]..]]]]]..]]]]]]]..[[[[[[..[[[[[[[.[[[[..[[[[.......]]]].]]]]....]]]]]]][[[......]]].]]]]]]..]]]......[[[[[[..[[..........]]....]]]]]].......]].].]]]]]]]].]]]]]]]......((((........[[[[[[.[[..[[[[............]]]]]].]]]]]]....[[[[[.......]]]]]]]]]]]]))))

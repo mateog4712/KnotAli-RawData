@@ -1,3 +1,0 @@
->tmRNA_Vibr.vuln._AE016795_1-367
-GGGGCUGAUUUAGGAUUCGACGGGAAUUUUGCAGUCUGAGGUGCAUGCCGAGGUGCGGUAGGCCUCGUUAACAAACCGCAAAAAAAUAGUCGCAAACGACGAAAACUACGCACUAGCAGCUUAAUAAACUGCUCAGAGCCCUCUCGCCCUAGCUUCCGCUUGUAAGACGGGGAAUCACGAGGGGUCAAACCAAAUCAAGCUGGCGUGGAUUCCCCCACCUGAGGGAUGAAGCGUAAGAUAUAAUUCAGGUUAGCUAUUCAUUCGCGUGUCGGUUCGCAGGUGGUAGUGAAAUUAAAGAUCGACUAAGCAUGUAGUACCAAUGAUGAAUGGUUUUCGGACGGGGGUUCAAAUCCCCCCAGCUCCACCA
-.[[[[[[[[...[[[[.....[[[[[[[[..[[[[.[[[.[[[[....[[[[[[.......]]]]]].....................[[[[....]]]].........]]]].[[[[[.........]]]]]....[.[[[[[[[[[[[[[[....]]]........]]]].....]]]]]]].]........]]].]]]]....]]]]]]]]..[[[[[[[....................]]]]]]].........]]]]....]]]]]]]]...(((((.[[[.......[[[[[[.......[[[.........]]]......]]]]]].....[[[[[........]]]]].]]]))))).

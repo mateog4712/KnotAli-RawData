@@ -1,3 +1,0 @@
->srp_Tetr.rost._SDB-5909
-GCCAGGGUAGCAAUGCCUGUGACCUCGUGUGGCAUAAACAAUGUAGUUAGAAUAGUCAGAGUAUGAGAGUUUGAUGAGACAGUUUGCUAAGAGUGUGCCCGUUCCAAACAGUGAGUUGCUAUGGUGGAAACCUAGUAAUAGGACUUCACCAGGGCAUUAAAGAGCUGAGGAACCGCCUCAGGCUGGCAACAGAACAGGGAAAACUUGCCGCUUAUUGUGGUGGAAGGAUAACAUACUCAUUAACUGUCAAGCUAAUCGGUUCUGCUAUUCUGAUCAGACACU
-[[[[[[[[[....]]]]]...........]]]]........[[[.[[[[[[[[[[.[[[[[[.....[[[[[[[.....[[[[[......[[[[[[[[[[.(((((...((([...])))....))))).[[[[....]]]].........]]]]]].......[[[[[[.....]]]]]].[[[....]]].....[.....[[[.[[[[[......]]]]]]]].....]..]]]]...]]]]]]]]]]]].....]]]]]]]]]]]]]]]]...]]]..

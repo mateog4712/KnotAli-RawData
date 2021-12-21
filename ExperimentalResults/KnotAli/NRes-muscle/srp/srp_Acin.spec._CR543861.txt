@@ -1,3 +1,0 @@
->srp_Acin.spec._CR543861
-GCCGCGAACCCCGCCAGGCCCGGAAGGGAGCAACGGUAGUGGUGGAU
-[[[[[.....(((.....(((....))).....)))..]]]]]....

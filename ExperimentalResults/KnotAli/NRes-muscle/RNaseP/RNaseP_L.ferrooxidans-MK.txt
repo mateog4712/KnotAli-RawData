@@ -1,3 +1,0 @@
->RNaseP_L.ferrooxidans-MK
-GAGGAAAGUCCGGGCACCAAAGGGCAAGGCGCUGGGUAACUCCCAGUCCCGGUGACGGGAAGGAAAGUGCCACAGAAAAGAUACCGCCCGGAUUCGUUCGGGUAAGGGUGAAAAGGCGAGGUAAGAGCUCACCGCGGACCUGGUGACAGGGACGGCAUGGUAAACCCCGCCUGGUGCAAGACCAAAUAGGGGGGCGCUCCCGAAAGGGAUAAGAUUGGCCCGGUCAAGGCUCCCGGGUAAGGUCGCUUGAGUGCAAGGGUAACCUUGCAUCUAGAGUAAUGGUCACCCUGCCUUCCUUUAGGGGAAGGUAUGACAGAACCCGGCUUA
-.....[[[.[[[[[[[([........[(([[[[([(.....)])]]((([(....)])).).....[[[[[...........[[[[[[[[[[....]]]]]]]...]]].....[[.[([.......])].]].....[[[[....]]]]...]]]]].........]]))]])]]]..[([[......[[[[[[..[[[[....]]]]...[([[[...]]])]...]]]]]]......]])].[[[..[(((((((....)))))))]...]]].....[[[[...[[[[[[[[[....]]]]]]]]]]]]].....]]]]]]].

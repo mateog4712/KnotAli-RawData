@@ -1,3 +1,0 @@
->tmRNA_Bdel.bact._BX842656_1-346
-GGGGGCGUACUGGCUUCGACGUGGGUGCUGAAGCAUAAGGAGCAUACCGGGGCGGAUGAGGACCUCGUUAAAAACGUCCACUUUGUAAUUGGCAACGAUUACGCACUUGCAGCUUAAUUAAGCAGCACGAUCAACCUUGUGGUGGUUCCGCACUUGGAUUGAUCGUCAUUUAGGGACCUCGGCGUGUUGGGUUUUCUCCAGCAGACAUGCUUAAAUUUACUGGGGGAGAGGUCUUAGGGAUUUUGUCUGUGGAAGCCCGAGGACCAAUCUAAAACACUGACUAAGUAUGUAGCGCCUUAUCGUGGAUCAUUUGCGGACGGGGGUUCAAUUCCCCCCGCCUCCACCA
-.[[[[[......]]]]]...[[[[[[[[....[[.......]]......[[[[[[[[[[[...]]]]]].....]]]]].....[[[[[[[....]]]]]]]]]]]]]]].[[[[....]]]]...[[[[[[[[[[.[[[[[.....]]]]]...]].]]]]]]]]......[[[[[[[.........]]]]]]].[[[[[[..[[[[[[[[[..[[...[[..[[[..[[[[[[.[[[.[[.((...((((]].]]].]]]]]]..]]]....]]..]].]]]]]]]]]...]].......]]]]........[[.[[[[[[........]]]]]].]]))))))

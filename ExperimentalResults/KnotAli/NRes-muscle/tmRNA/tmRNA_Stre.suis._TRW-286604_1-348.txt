@@ -1,3 +1,0 @@
->tmRNA_Stre.suis._TRW-286604_1-348
-GGGGUUGUUACGGAUUCGACAGGCAUUAUGAGGCUUGUUCUGCAACUCAUCGGCAGAUGUAAAAAUGCCAGUUAAAUAUAACUGCAAAAAAUACAAACACUUACGCAUUAGCAGCUUAAUAACCUGCCUGCGUGACCAGUCGCGAAUUGCUUGUGUUUGCUGAUUGGUCUUAAAAUAGCAAGCUACGUUGGGAUUGAGUCAGGCAGUUCCAAAAGAGAUUUACUGACUCGCUUGGUCUAGGUUUGAGUUAUGUAUCGAGUUCAAGUUAAAGCAAGACAUAACCUAUGGUUGUAGACGAAUAAGUUAGCAGGUGUUUGGACGUGGGUUCGACUCCCACCAGCUCCAUAU
-[[.[(([............[(([(([(....[[[[[[[([[[[(((([[[[....]]]]......[[[.[[[[[....]]]]]]]].......[[[[[....[[[[[...[[[[.........]]]].]]]]][[[[[[[[[[[[[[.......]]]]]].]]]]]]]]......[[[[[[[[....[[[[[[[[[.......]]]]]]]]]..[[[.........]]]]]]]]..]]].]]]]].[[[[[[[...[..............]...]]]]]]]....))))]]]]...)]]]]]]]....)]))]))]...(([([.......])]))]))].]]....

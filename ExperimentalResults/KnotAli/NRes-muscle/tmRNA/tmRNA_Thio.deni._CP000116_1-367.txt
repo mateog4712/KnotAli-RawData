@@ -1,3 +1,0 @@
->tmRNA_Thio.deni._CP000116_1-367
-GGGGCCGACCUGGCUUCGACGUGGGUCGCAAAGCAGCGUAGGGCAUACCGAGGGUCAGAGCACCUCGUAAAUCCAACUGAAAAACUUUAGUCGCAAACGACGAAAACUACGCCCUGGCCGCUUAAGGUCCAGGACUCACACUAGCCUGUUCAUGGGCUAGGCCGGGUCAAACCGGCAGUGAGUUAAUUCACAUGAAAUCGCGCUUGUCCGGGUCGCUUGGGCAGGUGCUAAAUCCAAGGCGGCUCGGCGAAAUCCAGCCUGUUCGGCGGGCGUGAUGGAGCUUAAAGCUUAAAAACACCGGACUAAGUAUGUAGAACUGCCUGUAGAGGGCUUGCGGACGCGGGUUCGAUUCCCGCCGGCUCCACCA
-[[.[(([............[(([(([(.[...[[[[.[[[[.[[(((([[[[[.........]]]]]....[[[...............[[[[....]]]].......[[[[[[.[[[[[[[...[[[....[[[[[[[.[[[[[[[[....]]]]]]]][[[[[......]]]]].]]]]]]]...............[[[[[[[[[[[[[...]]]]]]]]]]]]]...]]]...]]]]]]].[[[........]]]........]]]]]]....[[[[[...]]]]].........]]]....))))]]....]]]]]]]]...])]))]))]...(([([.......])]))]))].]]....

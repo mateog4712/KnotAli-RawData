@@ -1,3 +1,0 @@
->tmRNA_Salm.ente._TRW-59204_1-363
-GGGGCUGAUUCUGGAUUCGACGGGAUUUGCGAAACCCAAGGUGCAUGCCGAGGGGCGGUUGGCCUCGUAAAAAGCCGCAAAAAAAUAGUCGCAAACGACGAAACCUACGCUUUAGCAGCUUAAUAACCUGCUUAGAGCCCUCUCUCCCUAGCCUCCGCUCUUAGGACGGGGAUCAAGAGAGGUCAAACCCAAAAGAGAUCGCGUGGAUGCCUUGCCUGGGGUUGAAGCGUUAAAACGAAUCAGGCUAGUCUGGUAGUGGCGUGUCCGUCCGCAGGUGCCAGGCGAAUGUAAAGACAGACUAAGCAUGUCCUUCCGAGGAUGUAGGAAUUUCGGACGCGGGUUCAACUCCCGCCAGCUCCACCA
-[[.[(([.............[(([(([(......[[[[[([.[[((((.[[[[.[[[[[[............]]]]]].........[[[[....]]]].....[[[[[[...[[[[[.........]]]]]....[.[[[[[[[[[[...[[[........]]]...]]]....]]]]]]].]................]]]]]]...]]]][[[[[[....................]]]]]]..[[[[[[[[...[[[........]]]...]]]]]]]]...................))))]]])]]..].]]......)]))]))]...(([([.......])]))]))].]]....

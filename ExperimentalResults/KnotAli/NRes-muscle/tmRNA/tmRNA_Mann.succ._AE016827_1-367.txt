@@ -1,3 +1,0 @@
->tmRNA_Mann.succ._AE016827_1-367
-GGGGCUGAUUCUGGAUUCGACGGGAUUGGCGAAGCCCAAGGUGCACGUCGAGGUGCGGUAGGCCUCGUAAAUAAACCGCAAAAAAAUAGUCGCAAACGACGAACAAUACGCUUUAGCAGCUUAAUAACCUGCAUUUAGCCUUCGCUCCCUAGCUUCCGCUCGUAAGACGGGGAUCAAGCGGAGUCAAACCUAAACGAGAUCGUGUGGACGCUUCGGCUUGGAGAUCGAAACACUAAAUUGAAUCAAGCUAGUUUAUUCUUCGCGUGUCUGUCCGCAGGGGGUAAAUGAAAUUAAAGACUAGACUAAACGUGUAGUGCUGAAGGUAGAGUAAUUUCGGACGCGGGUUCAACUCCCGCCAGCUCCACCA
-...[[[[[[[[[[.......]]]]]]]]]]...[[....[[.[[[[[.[[[[[.[[[[.[[[[..............[[.........[[[[....]]]].........]]....[[[[.........]]]].....]]]]]]]]...[[[[[.[[[[.[[....]]]]]]...[[[[[[[[[[....[[...[[[....]]]..]]..]]]]].]]]]]..[[[[[[.........]]].]]]..]]]]]......]]]]]]]]]]]]....]].((.((....[[.........[[[[.[[.....]].]]]].[[[[[[.........]]]]]]..[[[[[.......]]]]]]]...)).)).

@@ -1,3 +1,0 @@
->srp_Pyro.furi._AE010126
-GGCGGCGGGCUAGGCCGGGGGGUUCGGCGUCCCCUGUAACCGGAAACCGCCGAUAUGCCGGGGCCGAAGCCCGGGGGGCGGUUCCCAAAGCCGCUCCCAGAAGCCGAGGUCGAACGAUGAGUCCUCGUCCCGCGGGGUGCCCGGUGGGGGAGGCACGGCUGAAGGGCCGUGCUAACCCCCUUUGGGCCCCGAACCCCGCAAGGCCCGGAAGGGAGCAGCGGUAGGGGCCACGGAGCACGCUCGCGGGGGUGCGGGGAUGAGAUAGGCCUCGGUGGAUGGGAGCGGUGGAGGGUUCCCACCCUCGGGCGUGCCCGCCGCC
-((((.(((((.....[[[[[.))))).))))]]]]]....[[[......]]]....[[..[[[[....[[[[[[[[[..[[..[[[...[[[[[[[[[[...[[[[[[[[[...[.......((((.((((((.(((..))).))))))))))[[[((((....))))]]]...[[[[[[....[[[[[[.....[[[[....[[[....]]]....]]]]..]]]]]]...[[[....]]]..]]]]]]..........]...]]]]]]]]]...]]]]]]]]]]...]]]..]]..]]]]]]]]]..]]]]...]].

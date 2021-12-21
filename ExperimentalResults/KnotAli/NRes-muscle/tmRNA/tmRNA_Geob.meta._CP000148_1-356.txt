@@ -1,3 +1,0 @@
->tmRNA_Geob.meta._CP000148_1-356
-GGGGGUGUACAGGUUUCGACGGGGAUAGGAAACUAAAGGUUGCAUGCCGAGGUCCGGGCUGGCCUCGUUAAAAAGCCCGGGGCGAAUUACACGCCGAUAAUUACGACUACGCCGUAGCAGCUUAAUACCCUGCUACCGAUCCGCCGAGCCUCUCCCACGGGUGAAGAUGGAUCGUUAUUUCAGUGGGAUAGUCAAGGGGAGUGCCCGCGGCCCCAAGGCGAAACUUUAGCAGGAUCGCUUCCCGGAAAUCCCUGCCAGGGGAGAGUCGGGCGGCUAAAUCAAAUCCUGGCAUAAGCAUGUAGACGCCUUCUGUGUAUGAUCUUCGGACGCGGGUUCGACUCCCGCCACCUCCACCA
-[[.[(([............[(([(([.....[[..[[[([[[[(((([[[[[[[......]]]]]]].......[[[.[[[[[[.......]]]].....[[[[[.......]]]]]...........[[[[[[[..[...[[[[..[.[[.[[[[[[[[[[[[.[[....]].]]]]]]..]]]]]].]].]..[[[[.[[....]]..]]]]..]]]]...]..]]]]]]]...[[[.[[[[[...[[[[[....]]]]]...]]]]].]]]..........]].]]]....))))]]]...])]]]..]].....]))]))]...(([([.......])]))]))].]]....

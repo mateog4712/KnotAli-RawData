@@ -1,3 +1,0 @@
->tmRNA_Stre.muta._TRW-210007_1-349
-GGGGUCGUUACGGAUUCGACAGGCAUUAUGAGACCUAUUUUGCGACUCAUCUAGCGGAUGUAAAACGCCAGUUAAAUAUAACUGCAAAAAAUACAAAUUCUUACGCAGUAGCUGCCUAAAAACCAGCCUGUGUGAUCAAUAACAAAUUGCUUGUGUUUGUUGAUUGGUCUUAUUGUUAACAAGCUACGUUAGAACUGAGUCAGGCUGUUCUAAAAGAGUUCUACUGACUCGCAUCGUUAGAGUUUGAGUUAUGUAUUGUAACGGUGUUAAAUAAACACAUAACCUAUAGUUGUAGACAAAUGGGUUAGCAGAUGUUUGGACGUGGGUUCGACUCCCACCGGCUCCAUUA
-[[.[(([............[(([(([(....[[[[[[[([[[[((((......[[[.........]]][[[[[[....]]]]]].....[[[[[[[[[[[..[[[[[[..[[[[.........]]]]]]]]]][[[[[[[[[[[[[[.......]]]]]]].]]]]]]]............[[[[...[[[[[[[.[.......].]]]]]]]...]]]].....[[[[[.........]]]]].]]]]].]]]]]]......[[[[[.....]]]]].........))))]]]...])]]]]]]]....)]))]))]...(([([.......])]))]))].]]....

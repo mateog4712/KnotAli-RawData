@@ -1,3 +1,0 @@
->tmRNA_Pseu.halo._CR954246_1-357
-GGGGCUGAUUAGGAUUCGACGGAAUUCAAGAAGCCCAAGGUGCAUGUCGAGGUGCGGUUUGCCUCGUUAAACAGCCGCAACCUAAAGUAAUCGCAAACGACGAUAACUACUCUCUAGCGGCUUAGGCCAGCUAGCGCUCCUUCUAUGUAUUCUUGUGGACUAGAUUUUGGAGUGUCACCCUAACACCUGAUCGCGAUGGAAACCCUGGCCGGGGUUGAAGCGUUAAAACUAAGCGGCCUCGCCUUUAUUUACCGUGUUUGUCCGGGACUUAAAGGUUAAUUAAAUGACAAUACUAAGCAUGUAGUACCGACGGUCGAGGCUUUUCGGACGGGGGUUCAAAUCCCCCCAGCUCCACCA
-[[.[(([............[(([(..(.....[[[...([[[[(((([[[[[[[.....]]]]]]]......[[[[[[.......[[[.[[[[.......]]]].]]]........]]]]]].[[[[[.[[[[[[[[[...[[[[[[......]]]]]]...[...[[[[.[[[[.......]]]]]]]]...]......[[[[[[....]]]]]]..]]]]]].......]]]]]]]]................[[.([[[...[[[[....]]]]........]]].).]]...))))]]...]])...]]]....)..)]))]...(([([.......])]))]))].]]....

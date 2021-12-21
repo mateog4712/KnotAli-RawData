@@ -1,3 +1,0 @@
->tmRNA_Vibr.fisc._CP000020_1-367
-GGGGCUGAUUCAGGAUUCGACGGGAAUUUUGAAACCCGAGGAGCAUGUCGUGGGGCGGUUGGCCACGUAAAAAGCCGCAAAAAAAUAGUCGCAAACGACGAAAACUACGCACUAGCAGCUUAAUAACCUGCUGAGAGCUCUCCUGCCCUAGCUUCUGCUUGUAAGACGGGGAAUAACAGGGGAUCAAACCCAAACGAGCUAGAACGGAUUCUCCCGCCUGAGAGAUGAACUUCGAAUUAUAAUUCAGGAUAGCCAUAAGAUAGCGUGUCGGUUCGCAGUUUUACGGUGAAAUCAAAGAUCGACUAAACAUGUAGCGCCAACGGUGAACGAUUUUCGGACGGGGGUUCAAAUCCCCCCAGCUCCACCA
-[[[[[[[...[[[[......[[[[..........]]]].[[[[[.[[.[[[[[.[[[[[[............]]]]]].........[[[[....]]]].....]]]]]]]..[[[[[.........]]]]]....]]]]]]]]]...]]]]]]].....[[[[[[[...........[[[.......]]]...[[[[[[...[[[...[[[[...[[[[[...[[[[........]]]]...]]]]]...].....]]]...]]]...]]]]]]..]]]]]]]((((......[[[[[[[.....[[.[[[.......]]]]]...]]]]]]].[[..[[[[[.......]]]]]...]].)))).

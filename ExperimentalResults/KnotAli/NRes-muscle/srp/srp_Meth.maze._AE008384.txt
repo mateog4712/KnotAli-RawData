@@ -1,3 +1,0 @@
->srp_Meth.maze._AE008384
-UGAUGAGCUAGUCCGGGUAGCCCGGCGUUACCUGUAACCCGAAAUCGCCGAUACGCGGGGGACGAAGCCAAAGGAAGAUGUGCCAGAGAGAUUCCAGCCUGAAGUCUCAACUGAGAAGCCCCGUCCUGCUUGGAUGGUGCAGGUAUGCGGGCCUGCUGGAAAACAGGUUCUCAUACCCUAACCGUGGAAACCGGUCGAGGCCCGGAAGGGAGCAGACUCACUGUGGGCAACCGUCGCUUGCGGGGUCGCGGGGUGGAGAAGAGAUCUCAGCCUACUGGAGCUUCCGAGGCGCAGCGACCUGAGGCGUGCUCAUCA
-[[[[[[[[....(((([...]))))[[[[.[[[[[....[[.......]]....]]]]].]]]]..[[[..[[[....[[[[[[...[[[.[[[[[[.[[[[.[[[[[........[[.[(((((((((((....)).)))))...))))].]](((........)))[[[[...[[[..[[[[.[....]]]]]...[.[[[....]]]..].[[[[..[[[[[[[[.......]]]]]]]]]]]]..]]]...]]]].]]]]].]]]]....]]]]]].]]]...]]]]]]....]]]..]]]..]]]]]]]]
